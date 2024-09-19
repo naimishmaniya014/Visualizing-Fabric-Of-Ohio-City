@@ -1,0 +1,1130 @@
+[
+  [
+    {
+      "currentmode": "Transport",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 07:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 08:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 09:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 10:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtRestaurant",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 11:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtRestaurant",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 12:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 13:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "Transport",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtRestaurant",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 14:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 15:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtWork",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "AtWork",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 16:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "AtRecreation",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 17:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 18:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 19:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    },
+    {
+      "currentmode": "AtRecreation",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 20:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    },
+    {
+      "currentmode": "AtRecreation",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 21:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 22:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "120",
+      "timestamp": "Fri, 20 Jan 2023 23:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 00:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 01:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 02:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 03:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 04:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 05:00:00 GMT"
+    }
+  ],
+  [
+    {
+      "currentmode": "AtHome",
+      "participantid": "3",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "8",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "12",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "Transport",
+      "participantid": "23",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "34",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "35",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "56",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "89",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    },
+    {
+      "currentmode": "AtHome",
+      "participantid": "120",
+      "timestamp": "Sat, 21 Jan 2023 06:00:00 GMT"
+    }
+  ]
+]

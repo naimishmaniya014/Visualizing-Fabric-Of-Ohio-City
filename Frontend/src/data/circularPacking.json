@@ -1,0 +1,26 @@
+[
+  {
+    "buildingId": 29,
+    "businessId": "443",
+    "businessType": "Pub",
+    "maxOccupancy": "64.0"
+  },
+  {
+    "buildingId": 164,
+    "businessId": "893",
+    "businessType": "Pub",
+    "maxOccupancy": "182.0"
+  },
+  {
+    "buildingId": 556,
+    "businessId": "442",
+    "businessType": "Pub",
+    "maxOccupancy": "64.0"
+  },
+  {
+    "buildingId": 1012,
+    "businessId": "444",
+    "businessType": "Pub",
+    "maxOccupancy": "84.0"
+  }
+]

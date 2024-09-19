@@ -1,0 +1,5282 @@
+[
+  {
+    "availablebalance": "11785.891374449391",
+    "currentlocation": "POINT (-2724.6277665310454 6866.2081834436985)",
+    "currentmode": "AtHome",
+    "participantid": "0"
+  },
+  {
+    "availablebalance": "17393.73773852744",
+    "currentlocation": "POINT (-1555.4794152338718 5688.7132394402315)",
+    "currentmode": "AtHome",
+    "participantid": "28"
+  },
+  {
+    "availablebalance": "4969.533962920634",
+    "currentlocation": "POINT (2223.5624472994955 4862.063619308975)",
+    "currentmode": "AtHome",
+    "participantid": "29"
+  },
+  {
+    "availablebalance": "521.9309082015591",
+    "currentlocation": "POINT (686.0858044772576 2922.7380939410023)",
+    "currentmode": "AtHome",
+    "participantid": "30"
+  },
+  {
+    "availablebalance": "20560.76127128829",
+    "currentlocation": "POINT (-1189.5514924340619 2890.7553818484876)",
+    "currentmode": "AtHome",
+    "participantid": "31"
+  },
+  {
+    "availablebalance": "7096.049273945173",
+    "currentlocation": "POINT (-634.0344080258775 6277.753144833072)",
+    "currentmode": "AtHome",
+    "participantid": "32"
+  },
+  {
+    "availablebalance": "16056.931991776266",
+    "currentlocation": "POINT (-4597.6533240783865 7069.886826197356)",
+    "currentmode": "AtHome",
+    "participantid": "33"
+  },
+  {
+    "availablebalance": "2614.10120792498",
+    "currentlocation": "POINT (2043.7166708902068 4346.287600576919)",
+    "currentmode": "AtHome",
+    "participantid": "34"
+  },
+  {
+    "availablebalance": "772.1939833035274",
+    "currentlocation": "POINT (1496.9438618070185 3428.2506460665654)",
+    "currentmode": "AtHome",
+    "participantid": "35"
+  },
+  {
+    "availablebalance": "19342.785563787045",
+    "currentlocation": "POINT (-1844.165240520775 1848.9603894453562)",
+    "currentmode": "AtHome",
+    "participantid": "36"
+  },
+  {
+    "availablebalance": "6953.402827540276",
+    "currentlocation": "POINT (-2414.077403801369 6211.71081880048)",
+    "currentmode": "AtHome",
+    "participantid": "37"
+  },
+  {
+    "availablebalance": "5582.533354505901",
+    "currentlocation": "POINT (-1837.5939136403147 6234.563888603619)",
+    "currentmode": "AtHome",
+    "participantid": "38"
+  },
+  {
+    "availablebalance": "4039.191793538607",
+    "currentlocation": "POINT (-501.42676062779447 3551.572638649489)",
+    "currentmode": "Transport",
+    "participantid": "39"
+  },
+  {
+    "availablebalance": "132.621418994495",
+    "currentlocation": "POINT (-5.487087530871604 5360.671874544664)",
+    "currentmode": "AtHome",
+    "participantid": "40"
+  },
+  {
+    "availablebalance": "978.2150640871548",
+    "currentlocation": "POINT (1414.7791622923082 3331.7608931825744)",
+    "currentmode": "AtHome",
+    "participantid": "41"
+  },
+  {
+    "availablebalance": "6759.194068030114",
+    "currentlocation": "POINT (-4398.2543834565 4637.204365012328)",
+    "currentmode": "AtHome",
+    "participantid": "42"
+  },
+  {
+    "availablebalance": "15019.712339700043",
+    "currentlocation": "POINT (-604.5425301346507 6205.663077468948)",
+    "currentmode": "AtHome",
+    "participantid": "43"
+  },
+  {
+    "availablebalance": "19993.459820593744",
+    "currentlocation": "POINT (-2508.713200348066 6783.37726594192)",
+    "currentmode": "AtHome",
+    "participantid": "45"
+  },
+  {
+    "availablebalance": "6108.97320668556",
+    "currentlocation": "POINT (-583.0046403572655 6187.016515533001)",
+    "currentmode": "AtHome",
+    "participantid": "46"
+  },
+  {
+    "availablebalance": "5808.399821704493",
+    "currentlocation": "POINT (-1460.1537460532932 955.2875318639223)",
+    "currentmode": "AtHome",
+    "participantid": "47"
+  },
+  {
+    "availablebalance": "5551.075709925193",
+    "currentlocation": "POINT (1219.2110639210114 3499.3456481089634)",
+    "currentmode": "AtHome",
+    "participantid": "48"
+  },
+  {
+    "availablebalance": "19059.212380276505",
+    "currentlocation": "POINT (-245.32409418297712 5049.526388311042)",
+    "currentmode": "Transport",
+    "participantid": "49"
+  },
+  {
+    "availablebalance": "5268.852285255967",
+    "currentlocation": "POINT (1764.6038707375765 4068.77821508088)",
+    "currentmode": "Transport",
+    "participantid": "50"
+  },
+  {
+    "availablebalance": "17071.420055442373",
+    "currentlocation": "POINT (1357.7433423875268 3265.1288681545407)",
+    "currentmode": "AtHome",
+    "participantid": "51"
+  },
+  {
+    "availablebalance": "1153.9852534709794",
+    "currentlocation": "POINT (570.8349402894696 1904.4644507325406)",
+    "currentmode": "AtHome",
+    "participantid": "52"
+  },
+  {
+    "availablebalance": "5012.372495336772",
+    "currentlocation": "POINT (-225.9209866450221 3878.053697626113)",
+    "currentmode": "Transport",
+    "participantid": "53"
+  },
+  {
+    "availablebalance": "7864.968543528317",
+    "currentlocation": "POINT (1797.2799828265845 4340.774328296322)",
+    "currentmode": "AtRecreation",
+    "participantid": "54"
+  },
+  {
+    "availablebalance": "947.4038430708778",
+    "currentlocation": "POINT (-1590.3908790256119 1882.6417834648523)",
+    "currentmode": "AtHome",
+    "participantid": "55"
+  },
+  {
+    "availablebalance": "2699.3408195842094",
+    "currentlocation": "POINT (2264.203852555873 4065.5602161190236)",
+    "currentmode": "AtHome",
+    "participantid": "56"
+  },
+  {
+    "availablebalance": "14403.255866066058",
+    "currentlocation": "POINT (2205.7400940450148 5216.3176837740175)",
+    "currentmode": "AtHome",
+    "participantid": "57"
+  },
+  {
+    "availablebalance": "18855.29310418956",
+    "currentlocation": "POINT (-1101.839043256292 2497.570196722187)",
+    "currentmode": "AtHome",
+    "participantid": "58"
+  },
+  {
+    "availablebalance": "15145.198737766272",
+    "currentlocation": "POINT (-2520.8523100951006 6201.628822676936)",
+    "currentmode": "AtHome",
+    "participantid": "59"
+  },
+  {
+    "availablebalance": "4871.8870337940925",
+    "currentlocation": "POINT (930.4149642879935 4060.0495537933452)",
+    "currentmode": "Transport",
+    "participantid": "60"
+  },
+  {
+    "availablebalance": "5391.904965350178",
+    "currentlocation": "POINT (-1397.177426276214 2186.3340847244535)",
+    "currentmode": "AtHome",
+    "participantid": "61"
+  },
+  {
+    "availablebalance": "9273.34961712357",
+    "currentlocation": "POINT (605.8700695260123 1773.0673495314356)",
+    "currentmode": "Transport",
+    "participantid": "62"
+  },
+  {
+    "availablebalance": "5103.630655051073",
+    "currentlocation": "POINT (2110.80817009729 5019.169190411168)",
+    "currentmode": "AtHome",
+    "participantid": "63"
+  },
+  {
+    "availablebalance": "4924.332229232825",
+    "currentlocation": "POINT (-496.78679320129623 1847.4222323734825)",
+    "currentmode": "AtHome",
+    "participantid": "64"
+  },
+  {
+    "availablebalance": "5234.316159042149",
+    "currentlocation": "POINT (955.7157859498368 338.98841714798596)",
+    "currentmode": "AtHome",
+    "participantid": "65"
+  },
+  {
+    "availablebalance": "6122.001460393168",
+    "currentlocation": "POINT (-1011.1007975934829 1342.738828543158)",
+    "currentmode": "AtHome",
+    "participantid": "66"
+  },
+  {
+    "availablebalance": "5289.96297692325",
+    "currentlocation": "POINT (1743.037507219923 5258.894946703521)",
+    "currentmode": "AtHome",
+    "participantid": "67"
+  },
+  {
+    "availablebalance": "4600.481399566995",
+    "currentlocation": "POINT (-1473.590901147153 877.1033836945335)",
+    "currentmode": "AtHome",
+    "participantid": "68"
+  },
+  {
+    "availablebalance": "3357.6481250328243",
+    "currentlocation": "POINT (526.4015381963275 4322.955915190171)",
+    "currentmode": "AtHome",
+    "participantid": "69"
+  },
+  {
+    "availablebalance": "1630.6588001876464",
+    "currentlocation": "POINT (2238.526068759931 4055.222885312164)",
+    "currentmode": "AtHome",
+    "participantid": "70"
+  },
+  {
+    "availablebalance": "1374.9493957150994",
+    "currentlocation": "POINT (2223.6100948058197 4062.7376541474628)",
+    "currentmode": "AtHome",
+    "participantid": "71"
+  },
+  {
+    "availablebalance": "13637.878743685556",
+    "currentlocation": "POINT (-1616.9640641883025 3898.063349807034)",
+    "currentmode": "AtRecreation",
+    "participantid": "72"
+  },
+  {
+    "availablebalance": "8893.961982016208",
+    "currentlocation": "POINT (-152.8634363929107 1620.9008407749106)",
+    "currentmode": "Transport",
+    "participantid": "73"
+  },
+  {
+    "availablebalance": "562.2006505385518",
+    "currentlocation": "POINT (1.9755335623945705 5341.431450701076)",
+    "currentmode": "AtHome",
+    "participantid": "74"
+  },
+  {
+    "availablebalance": "1089.2544307394055",
+    "currentlocation": "POINT (1254.089690625238 4852.6963917320545)",
+    "currentmode": "AtHome",
+    "participantid": "75"
+  },
+  {
+    "availablebalance": "4832.173712376554",
+    "currentlocation": "POINT (-1338.6352399471666 2154.9030760794763)",
+    "currentmode": "AtHome",
+    "participantid": "76"
+  },
+  {
+    "availablebalance": "4786.082355177175",
+    "currentlocation": "POINT (1803.5404125483858 4328.018932441136)",
+    "currentmode": "AtRecreation",
+    "participantid": "77"
+  },
+  {
+    "availablebalance": "18285.62448106628",
+    "currentlocation": "POINT (-2516.724001701027 2495.470079198975)",
+    "currentmode": "AtHome",
+    "participantid": "78"
+  },
+  {
+    "availablebalance": "7328.697130291152",
+    "currentlocation": "POINT (-2451.4918680777023 2427.775105006013)",
+    "currentmode": "AtHome",
+    "participantid": "79"
+  },
+  {
+    "availablebalance": "4562.963622742147",
+    "currentlocation": "POINT (1915.2859842403648 5312.093781653036)",
+    "currentmode": "AtHome",
+    "participantid": "80"
+  },
+  {
+    "availablebalance": "5639.549256196331",
+    "currentlocation": "POINT (601.7277385647054 3556.6658950219626)",
+    "currentmode": "AtHome",
+    "participantid": "81"
+  },
+  {
+    "availablebalance": "6477.944786148065",
+    "currentlocation": "POINT (-257.2897020825229 5016.755492651065)",
+    "currentmode": "AtRecreation",
+    "participantid": "82"
+  },
+  {
+    "availablebalance": "6877.320943824935",
+    "currentlocation": "POINT (-135.7936772057236 3415.6326140452566)",
+    "currentmode": "AtHome",
+    "participantid": "83"
+  },
+  {
+    "availablebalance": "4666.288689167449",
+    "currentlocation": "POINT (-1947.9008938556433 2093.9206315099636)",
+    "currentmode": "AtHome",
+    "participantid": "84"
+  },
+  {
+    "availablebalance": "3992.451062908332",
+    "currentlocation": "POINT (-1350.688345439653 1990.3876347179978)",
+    "currentmode": "AtHome",
+    "participantid": "85"
+  },
+  {
+    "availablebalance": "4709.412413099818",
+    "currentlocation": "POINT (-1636.9730511712182 806.1608366025896)",
+    "currentmode": "AtHome",
+    "participantid": "86"
+  },
+  {
+    "availablebalance": "1362.4983041442647",
+    "currentlocation": "POINT (91.5485244472209 4908.835011681327)",
+    "currentmode": "Transport",
+    "participantid": "87"
+  },
+  {
+    "availablebalance": "1300.7549026814145",
+    "currentlocation": "POINT (18.422209722405302 5367.142858130735)",
+    "currentmode": "AtHome",
+    "participantid": "88"
+  },
+  {
+    "availablebalance": "6503.812262340987",
+    "currentlocation": "POINT (-1218.0484947359735 3213.228538710721)",
+    "currentmode": "AtHome",
+    "participantid": "89"
+  },
+  {
+    "availablebalance": "6633.726351320646",
+    "currentlocation": "POINT (-1142.1337111008247 3196.0977945056115)",
+    "currentmode": "AtHome",
+    "participantid": "90"
+  },
+  {
+    "availablebalance": "1088.1743477834743",
+    "currentlocation": "POINT (-92.60471318609663 5320.25623098304)",
+    "currentmode": "AtHome",
+    "participantid": "91"
+  },
+  {
+    "availablebalance": "4209.21386493064",
+    "currentlocation": "POINT (2015.3436745883612 4870.663786883867)",
+    "currentmode": "AtHome",
+    "participantid": "92"
+  },
+  {
+    "availablebalance": "4207.142676086835",
+    "currentlocation": "POINT (630.057443387326 1593.6485457451095)",
+    "currentmode": "Transport",
+    "participantid": "93"
+  },
+  {
+    "availablebalance": "8709.803510297099",
+    "currentlocation": "POINT (2037.5840188812192 4898.759127722423)",
+    "currentmode": "AtHome",
+    "participantid": "94"
+  },
+  {
+    "availablebalance": "3360.294045321468",
+    "currentlocation": "POINT (-1430.7484411588418 1976.1815826195873)",
+    "currentmode": "AtHome",
+    "participantid": "95"
+  },
+  {
+    "availablebalance": "4130.370069993994",
+    "currentlocation": "POINT (-1425.0373135113339 2004.631970219612)",
+    "currentmode": "AtHome",
+    "participantid": "96"
+  },
+  {
+    "availablebalance": "5955.712853902192",
+    "currentlocation": "POINT (-186.01876942421933 1524.3262297635556)",
+    "currentmode": "AtHome",
+    "participantid": "97"
+  },
+  {
+    "availablebalance": "4083.131425471725",
+    "currentlocation": "POINT (-1434.973262420595 1987.3098980394846)",
+    "currentmode": "AtHome",
+    "participantid": "98"
+  },
+  {
+    "availablebalance": "7598.722510532093",
+    "currentlocation": "POINT (-375.1399391748131 1854.6659320088543)",
+    "currentmode": "AtHome",
+    "participantid": "99"
+  },
+  {
+    "availablebalance": "4337.016242891138",
+    "currentlocation": "POINT (-4574.968826688322 7279.39539289574)",
+    "currentmode": "AtHome",
+    "participantid": "100"
+  },
+  {
+    "availablebalance": "7037.7269401447375",
+    "currentlocation": "POINT (-4498.556931980856 4745.72483046643)",
+    "currentmode": "AtHome",
+    "participantid": "101"
+  },
+  {
+    "availablebalance": "13588.771876075234",
+    "currentlocation": "POINT (-573.7199715683724 5126.47392427598)",
+    "currentmode": "AtHome",
+    "participantid": "102"
+  },
+  {
+    "availablebalance": "13701.933555710666",
+    "currentlocation": "POINT (-436.3046057227951 5259.060541114311)",
+    "currentmode": "AtHome",
+    "participantid": "103"
+  },
+  {
+    "availablebalance": "1993.7152582731185",
+    "currentlocation": "POINT (338.54791328924017 5069.755864313634)",
+    "currentmode": "AtHome",
+    "participantid": "104"
+  },
+  {
+    "availablebalance": "2014.489733413144",
+    "currentlocation": "POINT (2192.7767242363825 4933.177065424005)",
+    "currentmode": "AtHome",
+    "participantid": "105"
+  },
+  {
+    "availablebalance": "5157.692875730994",
+    "currentlocation": "POINT (2073.8637698881444 4940.4130254975)",
+    "currentmode": "AtHome",
+    "participantid": "106"
+  },
+  {
+    "availablebalance": "3956.970933004885",
+    "currentlocation": "POINT (1211.3889356293332 4060.835750378791)",
+    "currentmode": "Transport",
+    "participantid": "107"
+  },
+  {
+    "availablebalance": "5980.901936286864",
+    "currentlocation": "POINT (-229.44973761269708 4528.92261007084)",
+    "currentmode": "Transport",
+    "participantid": "108"
+  },
+  {
+    "availablebalance": "6105.667230570888",
+    "currentlocation": "POINT (-2601.4844616292808 3065.960220454799)",
+    "currentmode": "AtHome",
+    "participantid": "109"
+  },
+  {
+    "availablebalance": "5747.779971409162",
+    "currentlocation": "POINT (-2639.6767056678714 3068.6493948638636)",
+    "currentmode": "AtHome",
+    "participantid": "110"
+  },
+  {
+    "availablebalance": "746.0318040004258",
+    "currentlocation": "POINT (-499.82804859994786 3554.917244851574)",
+    "currentmode": "AtRecreation",
+    "participantid": "111"
+  },
+  {
+    "availablebalance": "14012.762143315136",
+    "currentlocation": "POINT (-1670.5719329789977 2056.786442336958)",
+    "currentmode": "AtHome",
+    "participantid": "112"
+  },
+  {
+    "availablebalance": "6572.525339279873",
+    "currentlocation": "POINT (664.1877750440672 3797.8522890989393)",
+    "currentmode": "AtHome",
+    "participantid": "113"
+  },
+  {
+    "availablebalance": "12095.304290134503",
+    "currentlocation": "POINT (1717.835876212559 3409.851566604102)",
+    "currentmode": "AtHome",
+    "participantid": "114"
+  },
+  {
+    "availablebalance": "3297.3631573340126",
+    "currentlocation": "POINT (1707.054412521753 3353.9564355132256)",
+    "currentmode": "AtHome",
+    "participantid": "115"
+  },
+  {
+    "availablebalance": "17522.72178323944",
+    "currentlocation": "POINT (-1565.3234939821336 2806.0061159727093)",
+    "currentmode": "AtHome",
+    "participantid": "116"
+  },
+  {
+    "availablebalance": "5017.810740752246",
+    "currentlocation": "POINT (-68.03672015984428 4500.638259876133)",
+    "currentmode": "AtHome",
+    "participantid": "117"
+  },
+  {
+    "availablebalance": "12979.496628645187",
+    "currentlocation": "POINT (-1549.703019459702 2831.956395342448)",
+    "currentmode": "AtHome",
+    "participantid": "118"
+  },
+  {
+    "availablebalance": "12144.960357756709",
+    "currentlocation": "POINT (1227.418350577647 544.2222199132481)",
+    "currentmode": "AtHome",
+    "participantid": "119"
+  },
+  {
+    "availablebalance": "1988.406262514983",
+    "currentlocation": "POINT (859.3593928785715 1623.0523610677237)",
+    "currentmode": "AtHome",
+    "participantid": "120"
+  },
+  {
+    "availablebalance": "4053.227480370353",
+    "currentlocation": "POINT (292.39217131874955 1664.5199131746435)",
+    "currentmode": "Transport",
+    "participantid": "121"
+  },
+  {
+    "availablebalance": "6194.47327562851",
+    "currentlocation": "POINT (-1439.9430760430084 2473.1464529500436)",
+    "currentmode": "AtHome",
+    "participantid": "122"
+  },
+  {
+    "availablebalance": "6216.906991776401",
+    "currentlocation": "POINT (-3332.182456321242 7584.930454768431)",
+    "currentmode": "AtHome",
+    "participantid": "123"
+  },
+  {
+    "availablebalance": "17076.98320591893",
+    "currentlocation": "POINT (-4583.176447126485 4729.65080569796)",
+    "currentmode": "AtHome",
+    "participantid": "124"
+  },
+  {
+    "availablebalance": "14640.985513186855",
+    "currentlocation": "POINT (-10.355978118767254 3472.3896742182696)",
+    "currentmode": "AtHome",
+    "participantid": "125"
+  },
+  {
+    "availablebalance": "993.7027554788395",
+    "currentlocation": "POINT (-220.903527022639 5249.64901309842)",
+    "currentmode": "AtHome",
+    "participantid": "126"
+  },
+  {
+    "availablebalance": "4521.349993219356",
+    "currentlocation": "POINT (1601.3567543010552 4018.464562858439)",
+    "currentmode": "AtHome",
+    "participantid": "128"
+  },
+  {
+    "availablebalance": "3131.1157960744595",
+    "currentlocation": "POINT (1060.9437633037428 1260.5865662978981)",
+    "currentmode": "AtHome",
+    "participantid": "129"
+  },
+  {
+    "availablebalance": "2821.1412148016943",
+    "currentlocation": "POINT (1164.0738962286796 1544.2252567547262)",
+    "currentmode": "AtHome",
+    "participantid": "130"
+  },
+  {
+    "availablebalance": "2399.860478120168",
+    "currentlocation": "POINT (584.3136574360803 3747.881720872645)",
+    "currentmode": "AtHome",
+    "participantid": "131"
+  },
+  {
+    "availablebalance": "11304.900371611471",
+    "currentlocation": "POINT (-465.7493339369287 1398.3123022928)",
+    "currentmode": "AtHome",
+    "participantid": "132"
+  },
+  {
+    "availablebalance": "3355.558045999277",
+    "currentlocation": "POINT (-490.60482925640764 1397.1241432443894)",
+    "currentmode": "AtHome",
+    "participantid": "133"
+  },
+  {
+    "availablebalance": "6179.347083876264",
+    "currentlocation": "POINT (-603.140665680056 5132.275080109213)",
+    "currentmode": "AtHome",
+    "participantid": "134"
+  },
+  {
+    "availablebalance": "2305.629185516936",
+    "currentlocation": "POINT (-442.4532523883974 1701.7748890076932)",
+    "currentmode": "AtHome",
+    "participantid": "135"
+  },
+  {
+    "availablebalance": "11371.490665943977",
+    "currentlocation": "POINT (-713.1912937024488 1581.4161205086782)",
+    "currentmode": "AtHome",
+    "participantid": "136"
+  },
+  {
+    "availablebalance": "1529.6229963452822",
+    "currentlocation": "POINT (-219.47029345311603 5326.802185264626)",
+    "currentmode": "AtHome",
+    "participantid": "137"
+  },
+  {
+    "availablebalance": "2187.1189849643965",
+    "currentlocation": "POINT (1308.4011256519482 4426.230652612812)",
+    "currentmode": "AtHome",
+    "participantid": "138"
+  },
+  {
+    "availablebalance": "2759.060510934278",
+    "currentlocation": "POINT (1299.4420599853365 4453.380068639174)",
+    "currentmode": "AtHome",
+    "participantid": "139"
+  },
+  {
+    "availablebalance": "13050.895769180395",
+    "currentlocation": "POINT (-2632.944608595766 6288.656766845932)",
+    "currentmode": "AtHome",
+    "participantid": "140"
+  },
+  {
+    "availablebalance": "3910.626148528718",
+    "currentlocation": "POINT (2237.610736525216 4602.673592276821)",
+    "currentmode": "AtHome",
+    "participantid": "141"
+  },
+  {
+    "availablebalance": "6066.879468695269",
+    "currentlocation": "POINT (698.2411158717262 4392.416668183332)",
+    "currentmode": "Transport",
+    "participantid": "143"
+  },
+  {
+    "availablebalance": "3358.856148001388",
+    "currentlocation": "POINT (-1844.8861722131728 1645.3299966099307)",
+    "currentmode": "Transport",
+    "participantid": "144"
+  },
+  {
+    "availablebalance": "1028.3863561096102",
+    "currentlocation": "POINT (-379.1399925988855 5265.167361171224)",
+    "currentmode": "AtHome",
+    "participantid": "145"
+  },
+  {
+    "availablebalance": "2721.481439069509",
+    "currentlocation": "POINT (635.6459683231691 3665.325532265395)",
+    "currentmode": "Transport",
+    "participantid": "146"
+  },
+  {
+    "availablebalance": "3033.088289426542",
+    "currentlocation": "POINT (1677.934762896425 3228.4322363187243)",
+    "currentmode": "AtHome",
+    "participantid": "147"
+  },
+  {
+    "availablebalance": "12481.35351881987",
+    "currentlocation": "POINT (-2622.4693542048503 6305.882211709785)",
+    "currentmode": "AtHome",
+    "participantid": "148"
+  },
+  {
+    "availablebalance": "1246.5931670313414",
+    "currentlocation": "POINT (-388.544701171866 5274.671154781031)",
+    "currentmode": "AtHome",
+    "participantid": "149"
+  },
+  {
+    "availablebalance": "11890.46696151406",
+    "currentlocation": "POINT (-611.3816071271943 5211.062898551801)",
+    "currentmode": "AtHome",
+    "participantid": "150"
+  },
+  {
+    "availablebalance": "3812.711584510188",
+    "currentlocation": "POINT (-622.5463414546522 5159.840414637389)",
+    "currentmode": "AtHome",
+    "participantid": "151"
+  },
+  {
+    "availablebalance": "3154.926191877788",
+    "currentlocation": "POINT (2105.2621147090945 5334.454000089414)",
+    "currentmode": "AtHome",
+    "participantid": "152"
+  },
+  {
+    "availablebalance": "1386.8909926666056",
+    "currentlocation": "POINT (188.61397305386186 4195.410110193234)",
+    "currentmode": "Transport",
+    "participantid": "153"
+  },
+  {
+    "availablebalance": "14965.228833640576",
+    "currentlocation": "POINT (-474.0909044214035 5954.904809593169)",
+    "currentmode": "AtHome",
+    "participantid": "155"
+  },
+  {
+    "availablebalance": "3040.479693178924",
+    "currentlocation": "POINT (795.3027355381611 415.55936820390906)",
+    "currentmode": "AtHome",
+    "participantid": "156"
+  },
+  {
+    "availablebalance": "15835.571121278805",
+    "currentlocation": "POINT (-1286.336077813878 3285.447656269636)",
+    "currentmode": "AtHome",
+    "participantid": "157"
+  },
+  {
+    "availablebalance": "9440.211976035347",
+    "currentlocation": "POINT (770.4279044387976 932.5852003214752)",
+    "currentmode": "Transport",
+    "participantid": "158"
+  },
+  {
+    "availablebalance": "6132.73719203837",
+    "currentlocation": "POINT (-1231.7319881481164 3467.740761780779)",
+    "currentmode": "AtHome",
+    "participantid": "159"
+  },
+  {
+    "availablebalance": "11380.998472917783",
+    "currentlocation": "POINT (-1618.1131464263558 6082.465710436708)",
+    "currentmode": "AtHome",
+    "participantid": "160"
+  },
+  {
+    "availablebalance": "1263.4538015734452",
+    "currentlocation": "POINT (-254.64018220272484 5036.806504758238)",
+    "currentmode": "AtRecreation",
+    "participantid": "162"
+  },
+  {
+    "availablebalance": "5271.935271177588",
+    "currentlocation": "POINT (-3263.534058665481 5877.249521522358)",
+    "currentmode": "Transport",
+    "participantid": "163"
+  },
+  {
+    "availablebalance": "4364.009170213033",
+    "currentlocation": "POINT (620.1155538963543 2389.277154299279)",
+    "currentmode": "AtHome",
+    "participantid": "164"
+  },
+  {
+    "availablebalance": "6729.966152711161",
+    "currentlocation": "POINT (580.5195669633262 3735.05475997133)",
+    "currentmode": "AtHome",
+    "participantid": "165"
+  },
+  {
+    "availablebalance": "2804.8551181088537",
+    "currentlocation": "POINT (1081.345703863062 689.1167654655084)",
+    "currentmode": "AtHome",
+    "participantid": "166"
+  },
+  {
+    "availablebalance": "1306.1787337643043",
+    "currentlocation": "POINT (188.61397305386186 4195.410110193234)",
+    "currentmode": "Transport",
+    "participantid": "167"
+  },
+  {
+    "availablebalance": "9847.811516265014",
+    "currentlocation": "POINT (1816.1685312652548 5171.175206952844)",
+    "currentmode": "AtHome",
+    "participantid": "168"
+  },
+  {
+    "availablebalance": "3710.361711847746",
+    "currentlocation": "POINT (-1361.0006661216942 2065.6162438417405)",
+    "currentmode": "AtHome",
+    "participantid": "169"
+  },
+  {
+    "availablebalance": "11810.335484243094",
+    "currentlocation": "POINT (-2720.3568123686973 6848.502579431824)",
+    "currentmode": "AtHome",
+    "participantid": "170"
+  },
+  {
+    "availablebalance": "4857.827183737685",
+    "currentlocation": "POINT (-1541.3231057723094 5600.609909304979)",
+    "currentmode": "AtHome",
+    "participantid": "171"
+  },
+  {
+    "availablebalance": "8574.740660805273",
+    "currentlocation": "POINT (-1942.6730411445426 1980.7509407987293)",
+    "currentmode": "AtHome",
+    "participantid": "172"
+  },
+  {
+    "availablebalance": "8207.30154218294",
+    "currentlocation": "POINT (-199.80739778198915 1611.731282035355)",
+    "currentmode": "AtHome",
+    "participantid": "173"
+  },
+  {
+    "availablebalance": "2406.1848333570497",
+    "currentlocation": "POINT (1316.0728786715365 3227.6859640235043)",
+    "currentmode": "AtHome",
+    "participantid": "174"
+  },
+  {
+    "availablebalance": "4432.968658596961",
+    "currentlocation": "POINT (1782.3951213881348 3414.441176959483)",
+    "currentmode": "AtHome",
+    "participantid": "175"
+  },
+  {
+    "availablebalance": "4043.331271115452",
+    "currentlocation": "POINT (354.92667736862916 4148.692258927901)",
+    "currentmode": "AtHome",
+    "participantid": "176"
+  },
+  {
+    "availablebalance": "4111.581484255458",
+    "currentlocation": "POINT (2414.336435689438 5379.863523612927)",
+    "currentmode": "AtHome",
+    "participantid": "177"
+  },
+  {
+    "availablebalance": "6357.114728395618",
+    "currentlocation": "POINT (574.8943710724894 1813.7655243245533)",
+    "currentmode": "AtHome",
+    "participantid": "178"
+  },
+  {
+    "availablebalance": "1541.7514525459217",
+    "currentlocation": "POINT (-225.9209866450221 3878.053697626113)",
+    "currentmode": "Transport",
+    "participantid": "179"
+  },
+  {
+    "availablebalance": "4726.095646164842",
+    "currentlocation": "POINT (-174.39827933640387 1616.354671301628)",
+    "currentmode": "AtHome",
+    "participantid": "180"
+  },
+  {
+    "availablebalance": "1954.4662796171683",
+    "currentlocation": "POINT (1251.3285623378465 4909.320822311027)",
+    "currentmode": "AtHome",
+    "participantid": "181"
+  },
+  {
+    "availablebalance": "1823.236790306184",
+    "currentlocation": "POINT (1820.5398221455368 4460.839370202472)",
+    "currentmode": "AtHome",
+    "participantid": "182"
+  },
+  {
+    "availablebalance": "15209.334753561385",
+    "currentlocation": "POINT (563.1687882586755 1795.5555172479515)",
+    "currentmode": "AtHome",
+    "participantid": "183"
+  },
+  {
+    "availablebalance": "1859.118129548096",
+    "currentlocation": "POINT (1573.5085335090662 4042.3890107387842)",
+    "currentmode": "AtHome",
+    "participantid": "184"
+  },
+  {
+    "availablebalance": "7470.206041518993",
+    "currentlocation": "POINT (577.0627972952155 1807.733517788687)",
+    "currentmode": "AtHome",
+    "participantid": "185"
+  },
+  {
+    "availablebalance": "6603.684375298395",
+    "currentlocation": "POINT (588.6624903281695 1701.1431019383906)",
+    "currentmode": "AtHome",
+    "participantid": "186"
+  },
+  {
+    "availablebalance": "5061.883663224922",
+    "currentlocation": "POINT (571.0610495914086 1705.724395694057)",
+    "currentmode": "AtHome",
+    "participantid": "187"
+  },
+  {
+    "availablebalance": "9314.064113490347",
+    "currentlocation": "POINT (1308.0915448803137 4741.777586786875)",
+    "currentmode": "AtHome",
+    "participantid": "188"
+  },
+  {
+    "availablebalance": "15064.023958356036",
+    "currentlocation": "POINT (1295.5340668071733 4748.842825210253)",
+    "currentmode": "AtHome",
+    "participantid": "189"
+  },
+  {
+    "availablebalance": "8262.420354527883",
+    "currentlocation": "POINT (1770.5650484085725 3286.3888669699713)",
+    "currentmode": "AtHome",
+    "participantid": "190"
+  },
+  {
+    "availablebalance": "4335.746370232023",
+    "currentlocation": "POINT (1771.3275804120506 3341.1956510570362)",
+    "currentmode": "AtHome",
+    "participantid": "191"
+  },
+  {
+    "availablebalance": "7496.755817991628",
+    "currentlocation": "POINT (1285.6383293078716 4726.877299229724)",
+    "currentmode": "AtHome",
+    "participantid": "192"
+  },
+  {
+    "availablebalance": "8038.377171058451",
+    "currentlocation": "POINT (1596.9855257378151 4040.0966203931084)",
+    "currentmode": "AtHome",
+    "participantid": "193"
+  },
+  {
+    "availablebalance": "12931.747623052494",
+    "currentlocation": "POINT (1300.022125854812 4734.069216243433)",
+    "currentmode": "AtHome",
+    "participantid": "194"
+  },
+  {
+    "availablebalance": "16001.490538564876",
+    "currentlocation": "POINT (1595.9348069502726 4037.668795448345)",
+    "currentmode": "AtHome",
+    "participantid": "195"
+  },
+  {
+    "availablebalance": "3144.312579117829",
+    "currentlocation": "POINT (1240.973758666241 513.0980997364184)",
+    "currentmode": "AtHome",
+    "participantid": "196"
+  },
+  {
+    "availablebalance": "1748.7371938086587",
+    "currentlocation": "POINT (1267.1464684951388 3622.504787056491)",
+    "currentmode": "AtHome",
+    "participantid": "197"
+  },
+  {
+    "availablebalance": "11931.89600627315",
+    "currentlocation": "POINT (1578.7520452307883 4035.5684495070177)",
+    "currentmode": "AtHome",
+    "participantid": "198"
+  },
+  {
+    "availablebalance": "4017.7071486346586",
+    "currentlocation": "POINT (1176.658806957914 3153.5278367726637)",
+    "currentmode": "AtHome",
+    "participantid": "199"
+  },
+  {
+    "availablebalance": "15638.604250847991",
+    "currentlocation": "POINT (1593.5571897897012 4025.408786366203)",
+    "currentmode": "AtHome",
+    "participantid": "200"
+  },
+  {
+    "availablebalance": "7072.604754669795",
+    "currentlocation": "POINT (569.8744106571446 1690.2099782193063)",
+    "currentmode": "AtHome",
+    "participantid": "201"
+  },
+  {
+    "availablebalance": "2337.207287022802",
+    "currentlocation": "POINT (1274.9620550386078 4423.530931602868)",
+    "currentmode": "AtHome",
+    "participantid": "202"
+  },
+  {
+    "availablebalance": "1733.7123247395157",
+    "currentlocation": "POINT (-840.0744762437234 1636.8373984737436)",
+    "currentmode": "AtHome",
+    "participantid": "203"
+  },
+  {
+    "availablebalance": "4770.615764065796",
+    "currentlocation": "POINT (581.5018399921794 1706.3417650325132)",
+    "currentmode": "AtHome",
+    "participantid": "204"
+  },
+  {
+    "availablebalance": "6626.133010491066",
+    "currentlocation": "POINT (-3892.500516606914 5959.133405855642)",
+    "currentmode": "AtRecreation",
+    "participantid": "205"
+  },
+  {
+    "availablebalance": "3428.9768663157497",
+    "currentlocation": "POINT (2468.027310102608 5208.8512655235245)",
+    "currentmode": "AtHome",
+    "participantid": "206"
+  },
+  {
+    "availablebalance": "7051.955854238985",
+    "currentlocation": "POINT (-749.1181401292539 1654.3332458639254)",
+    "currentmode": "AtHome",
+    "participantid": "207"
+  },
+  {
+    "availablebalance": "3707.387647516372",
+    "currentlocation": "POINT (1384.5960460271895 4527.083791474959)",
+    "currentmode": "Transport",
+    "participantid": "208"
+  },
+  {
+    "availablebalance": "7542.358523147565",
+    "currentlocation": "POINT (-743.6869059555171 1654.682066914351)",
+    "currentmode": "AtHome",
+    "participantid": "209"
+  },
+  {
+    "availablebalance": "1130.896058391772",
+    "currentlocation": "POINT (-426.6644812473655 1697.7513675583173)",
+    "currentmode": "AtHome",
+    "participantid": "210"
+  },
+  {
+    "availablebalance": "12339.952515707606",
+    "currentlocation": "POINT (-759.9703931769521 1641.7892380381643)",
+    "currentmode": "AtHome",
+    "participantid": "211"
+  },
+  {
+    "availablebalance": "1521.1674977770238",
+    "currentlocation": "POINT (1260.2309944982098 1148.9964240517431)",
+    "currentmode": "AtHome",
+    "participantid": "212"
+  },
+  {
+    "availablebalance": "5497.137396175784",
+    "currentlocation": "POINT (1415.5890432654378 4940.91794072539)",
+    "currentmode": "AtHome",
+    "participantid": "213"
+  },
+  {
+    "availablebalance": "7301.746243474327",
+    "currentlocation": "POINT (1419.406128618074 4921.012361040348)",
+    "currentmode": "AtHome",
+    "participantid": "214"
+  },
+  {
+    "availablebalance": "12188.350878448768",
+    "currentlocation": "POINT (1411.5688050146657 4929.435840811374)",
+    "currentmode": "AtHome",
+    "participantid": "215"
+  },
+  {
+    "availablebalance": "7060.314034523129",
+    "currentlocation": "POINT (-745.8963444464756 1639.8868996794452)",
+    "currentmode": "AtHome",
+    "participantid": "216"
+  },
+  {
+    "availablebalance": "1356.9196949616612",
+    "currentlocation": "POINT (-225.9209866450221 3878.053697626113)",
+    "currentmode": "Transport",
+    "participantid": "217"
+  },
+  {
+    "availablebalance": "439.04673996495575",
+    "currentlocation": "POINT (120.7438900575549 4044.859517641698)",
+    "currentmode": "AtHome",
+    "participantid": "218"
+  },
+  {
+    "availablebalance": "3759.93997574721",
+    "currentlocation": "POINT (1500.798809887274 3323.391011908242)",
+    "currentmode": "AtHome",
+    "participantid": "219"
+  },
+  {
+    "availablebalance": "6712.556285755814",
+    "currentlocation": "POINT (587.7836330517929 1483.9791682760022)",
+    "currentmode": "AtHome",
+    "participantid": "220"
+  },
+  {
+    "availablebalance": "3515.884008745032",
+    "currentlocation": "POINT (588.24129100483 3475.6105422809355)",
+    "currentmode": "AtHome",
+    "participantid": "221"
+  },
+  {
+    "availablebalance": "3621.991690601869",
+    "currentlocation": "POINT (2215.392449903611 4769.681157920286)",
+    "currentmode": "AtHome",
+    "participantid": "222"
+  },
+  {
+    "availablebalance": "3336.69891446652",
+    "currentlocation": "POINT (595.5005918880431 1786.8685911919665)",
+    "currentmode": "AtHome",
+    "participantid": "223"
+  },
+  {
+    "availablebalance": "4965.012408343744",
+    "currentlocation": "POINT (1488.943201362342 3319.92292314603)",
+    "currentmode": "AtHome",
+    "participantid": "224"
+  },
+  {
+    "availablebalance": "7155.979335814713",
+    "currentlocation": "POINT (1495.8455901318048 3320.5815298143275)",
+    "currentmode": "AtHome",
+    "participantid": "225"
+  },
+  {
+    "availablebalance": "6571.5767006855685",
+    "currentlocation": "POINT (200.30530797883364 1293.7754727507527)",
+    "currentmode": "AtHome",
+    "participantid": "226"
+  },
+  {
+    "availablebalance": "3792.05991497648",
+    "currentlocation": "POINT (-737.4367272415781 1384.0885789058686)",
+    "currentmode": "AtHome",
+    "participantid": "227"
+  },
+  {
+    "availablebalance": "11266.76085596063",
+    "currentlocation": "POINT (595.6114137678455 3448.2388672434245)",
+    "currentmode": "AtHome",
+    "participantid": "228"
+  },
+  {
+    "availablebalance": "7796.560835821328",
+    "currentlocation": "POINT (599.5116378839258 1510.0618321751404)",
+    "currentmode": "AtHome",
+    "participantid": "229"
+  },
+  {
+    "availablebalance": "11154.5874551733",
+    "currentlocation": "POINT (198.3295277288202 1299.360903370048)",
+    "currentmode": "AtHome",
+    "participantid": "230"
+  },
+  {
+    "availablebalance": "1165.3504482588844",
+    "currentlocation": "POINT (-226.0919385568912 3887.894465687892)",
+    "currentmode": "AtRecreation",
+    "participantid": "231"
+  },
+  {
+    "availablebalance": "1726.397904494889",
+    "currentlocation": "POINT (1212.1762869259765 4886.370451390932)",
+    "currentmode": "AtHome",
+    "participantid": "232"
+  },
+  {
+    "availablebalance": "15032.196044683184",
+    "currentlocation": "POINT (577.5048472892462 1503.081581425309)",
+    "currentmode": "AtHome",
+    "participantid": "233"
+  },
+  {
+    "availablebalance": "8386.443239947665",
+    "currentlocation": "POINT (-1782.2457785250274 1702.734863586154)",
+    "currentmode": "AtHome",
+    "participantid": "234"
+  },
+  {
+    "availablebalance": "6635.974777485055",
+    "currentlocation": "POINT (525.0873240468296 4418.827779090524)",
+    "currentmode": "AtHome",
+    "participantid": "235"
+  },
+  {
+    "availablebalance": "4246.637448666045",
+    "currentlocation": "POINT (534.869503473957 4412.508707969395)",
+    "currentmode": "AtHome",
+    "participantid": "236"
+  },
+  {
+    "availablebalance": "14816.65311359867",
+    "currentlocation": "POINT (535.4874987111288 4426.070086468944)",
+    "currentmode": "AtHome",
+    "participantid": "237"
+  },
+  {
+    "availablebalance": "4229.928255161877",
+    "currentlocation": "POINT (600.1687578891527 1530.4524401615397)",
+    "currentmode": "AtHome",
+    "participantid": "238"
+  },
+  {
+    "availablebalance": "1122.9580715189677",
+    "currentlocation": "POINT (222.2585412131388 1810.2952358591588)",
+    "currentmode": "AtHome",
+    "participantid": "239"
+  },
+  {
+    "availablebalance": "7988.808470782962",
+    "currentlocation": "POINT (2409.7559376435624 4346.312086368327)",
+    "currentmode": "AtHome",
+    "participantid": "240"
+  },
+  {
+    "availablebalance": "6598.811082097734",
+    "currentlocation": "POINT (596.2257073221284 1519.5441978913152)",
+    "currentmode": "AtHome",
+    "participantid": "241"
+  },
+  {
+    "availablebalance": "13397.51675572192",
+    "currentlocation": "POINT (-709.4812621708186 6327.535433757444)",
+    "currentmode": "AtHome",
+    "participantid": "242"
+  },
+  {
+    "availablebalance": "1764.4950925473308",
+    "currentlocation": "POINT (1245.9236702634607 3252.527900518728)",
+    "currentmode": "AtHome",
+    "participantid": "243"
+  },
+  {
+    "availablebalance": "2462.38596853434",
+    "currentlocation": "POINT (2042.1063610730464 4363.877597548604)",
+    "currentmode": "AtHome",
+    "participantid": "244"
+  },
+  {
+    "availablebalance": "8410.881986020899",
+    "currentlocation": "POINT (1311.5125194359287 3615.960574934571)",
+    "currentmode": "AtHome",
+    "participantid": "245"
+  },
+  {
+    "availablebalance": "1232.151163833158",
+    "currentlocation": "POINT (-381.97758001224605 4192.367000423337)",
+    "currentmode": "Transport",
+    "participantid": "246"
+  },
+  {
+    "availablebalance": "1076.738451754654",
+    "currentlocation": "POINT (605.0352009405825 3204.860613802215)",
+    "currentmode": "AtHome",
+    "participantid": "247"
+  },
+  {
+    "availablebalance": "11901.6359294956",
+    "currentlocation": "POINT (1301.8046215175636 3618.213478596)",
+    "currentmode": "AtHome",
+    "participantid": "248"
+  },
+  {
+    "availablebalance": "5535.71219743775",
+    "currentlocation": "POINT (1312.2722771083413 3535.58422740479)",
+    "currentmode": "AtHome",
+    "participantid": "249"
+  },
+  {
+    "availablebalance": "3552.8292315257204",
+    "currentlocation": "POINT (1195.8718307906815 3252.6025739598585)",
+    "currentmode": "AtHome",
+    "participantid": "250"
+  },
+  {
+    "availablebalance": "3719.043168069924",
+    "currentlocation": "POINT (18.358412861556058 94.94395411560458)",
+    "currentmode": "AtHome",
+    "participantid": "251"
+  },
+  {
+    "availablebalance": "5074.69803265348",
+    "currentlocation": "POINT (-1183.6353250747331 2605.068020437779)",
+    "currentmode": "AtHome",
+    "participantid": "252"
+  },
+  {
+    "availablebalance": "11353.707952587083",
+    "currentlocation": "POINT (-1311.5587476221624 2561.2400714292203)",
+    "currentmode": "AtHome",
+    "participantid": "253"
+  },
+  {
+    "availablebalance": "9508.587866704793",
+    "currentlocation": "POINT (-1662.166147963861 6058.983160804273)",
+    "currentmode": "AtHome",
+    "participantid": "254"
+  },
+  {
+    "availablebalance": "861.0359190149683",
+    "currentlocation": "POINT (-1662.9076138531102 3423.306359798641)",
+    "currentmode": "AtHome",
+    "participantid": "255"
+  },
+  {
+    "availablebalance": "4494.776850163149",
+    "currentlocation": "POINT (-1363.6746703562285 2605.1032262421472)",
+    "currentmode": "AtHome",
+    "participantid": "257"
+  },
+  {
+    "availablebalance": "1162.2059962226715",
+    "currentlocation": "POINT (-1774.0073533619118 4052.620422758957)",
+    "currentmode": "AtHome",
+    "participantid": "258"
+  },
+  {
+    "availablebalance": "5319.291934832631",
+    "currentlocation": "POINT (-1632.563259932197 6104.204284626621)",
+    "currentmode": "AtHome",
+    "participantid": "259"
+  },
+  {
+    "availablebalance": "11145.039675529912",
+    "currentlocation": "POINT (-1230.2800729737107 3319.4323014799825)",
+    "currentmode": "AtHome",
+    "participantid": "260"
+  },
+  {
+    "availablebalance": "4425.838529947879",
+    "currentlocation": "POINT (-1530.540665326246 3822.2130280151673)",
+    "currentmode": "AtRecreation",
+    "participantid": "261"
+  },
+  {
+    "availablebalance": "5469.143347379236",
+    "currentlocation": "POINT (-4600.671636552691 7599.163509369166)",
+    "currentmode": "AtHome",
+    "participantid": "263"
+  },
+  {
+    "availablebalance": "5417.717453996531",
+    "currentlocation": "POINT (-3799.207722487715 6356.500579990578)",
+    "currentmode": "AtRecreation",
+    "participantid": "264"
+  },
+  {
+    "availablebalance": "10554.779007210873",
+    "currentlocation": "POINT (-4573.459436358925 7347.185981322279)",
+    "currentmode": "AtHome",
+    "participantid": "265"
+  },
+  {
+    "availablebalance": "4454.485136832288",
+    "currentlocation": "POINT (-1317.8769440429232 3727.078804371119)",
+    "currentmode": "AtHome",
+    "participantid": "266"
+  },
+  {
+    "availablebalance": "5659.513190625659",
+    "currentlocation": "POINT (-4578.54656742065 7518.832664638027)",
+    "currentmode": "AtHome",
+    "participantid": "268"
+  },
+  {
+    "availablebalance": "4467.861688320979",
+    "currentlocation": "POINT (-1301.0783781355212 2681.9601886546184)",
+    "currentmode": "AtHome",
+    "participantid": "269"
+  },
+  {
+    "availablebalance": "4944.624088023994",
+    "currentlocation": "POINT (-4614.557309860481 5147.32940254623)",
+    "currentmode": "AtHome",
+    "participantid": "270"
+  },
+  {
+    "availablebalance": "4186.586099361005",
+    "currentlocation": "POINT (-508.6405001006103 3550.821937219644)",
+    "currentmode": "AtRecreation",
+    "participantid": "271"
+  },
+  {
+    "availablebalance": "1154.304347202805",
+    "currentlocation": "POINT (-1601.8745377759506 4738.945967988204)",
+    "currentmode": "AtHome",
+    "participantid": "272"
+  },
+  {
+    "availablebalance": "987.418502878088",
+    "currentlocation": "POINT (-1877.410051384654 3498.347374395098)",
+    "currentmode": "AtHome",
+    "participantid": "273"
+  },
+  {
+    "availablebalance": "2138.636070436068",
+    "currentlocation": "POINT (-1618.3796090505787 3842.5773866408404)",
+    "currentmode": "Transport",
+    "participantid": "274"
+  },
+  {
+    "availablebalance": "5412.028995145064",
+    "currentlocation": "POINT (-1911.2298992097242 5810.175885059182)",
+    "currentmode": "AtHome",
+    "participantid": "275"
+  },
+  {
+    "availablebalance": "9804.854277703636",
+    "currentlocation": "POINT (-4491.610991038857 5127.064931972906)",
+    "currentmode": "AtHome",
+    "participantid": "276"
+  },
+  {
+    "availablebalance": "1187.6247225426252",
+    "currentlocation": "POINT (-662.6017309912244 4864.729100012163)",
+    "currentmode": "AtHome",
+    "participantid": "277"
+  },
+  {
+    "availablebalance": "8988.19437021355",
+    "currentlocation": "POINT (-4435.45076219274 5129.890834026021)",
+    "currentmode": "AtHome",
+    "participantid": "278"
+  },
+  {
+    "availablebalance": "8894.649330694094",
+    "currentlocation": "POINT (-2623.9072001949207 6601.185809944629)",
+    "currentmode": "AtHome",
+    "participantid": "280"
+  },
+  {
+    "availablebalance": "3931.049174538093",
+    "currentlocation": "POINT (-2241.4025062167552 2507.920296369679)",
+    "currentmode": "AtHome",
+    "participantid": "281"
+  },
+  {
+    "availablebalance": "4944.72264433908",
+    "currentlocation": "POINT (-2618.4758035519317 6616.094271288946)",
+    "currentmode": "AtHome",
+    "participantid": "282"
+  },
+  {
+    "availablebalance": "6195.69884828823",
+    "currentlocation": "POINT (-694.5856243594246 4887.887968912156)",
+    "currentmode": "AtHome",
+    "participantid": "283"
+  },
+  {
+    "availablebalance": "811.1401397423671",
+    "currentlocation": "POINT (-604.7941119699747 6032.747408703904)",
+    "currentmode": "AtHome",
+    "participantid": "284"
+  },
+  {
+    "availablebalance": "3876.6095197391655",
+    "currentlocation": "POINT (-1439.737579233963 2699.318680612109)",
+    "currentmode": "AtHome",
+    "participantid": "286"
+  },
+  {
+    "availablebalance": "3344.82193580428",
+    "currentlocation": "POINT (-2501.1221406845975 2593.95781698129)",
+    "currentmode": "AtHome",
+    "participantid": "287"
+  },
+  {
+    "availablebalance": "6585.407187178668",
+    "currentlocation": "POINT (-750.8077127575009 4822.879080596924)",
+    "currentmode": "Transport",
+    "participantid": "289"
+  },
+  {
+    "availablebalance": "11280.815609853971",
+    "currentlocation": "POINT (-233.80643755056002 3890.1860652052987)",
+    "currentmode": "AtRecreation",
+    "participantid": "290"
+  },
+  {
+    "availablebalance": "1964.500985727489",
+    "currentlocation": "POINT (-2442.898391244556 2567.7615772184154)",
+    "currentmode": "AtHome",
+    "participantid": "291"
+  },
+  {
+    "availablebalance": "2368.403668144984",
+    "currentlocation": "POINT (-562.1445582365948 4860.331840691551)",
+    "currentmode": "AtHome",
+    "participantid": "292"
+  },
+  {
+    "availablebalance": "4928.353885527918",
+    "currentlocation": "POINT (-595.4932176287018 6075.069169884037)",
+    "currentmode": "AtHome",
+    "participantid": "293"
+  },
+  {
+    "availablebalance": "656.7520474404217",
+    "currentlocation": "POINT (-2534.9703034763043 4564.285809488242)",
+    "currentmode": "AtHome",
+    "participantid": "294"
+  },
+  {
+    "availablebalance": "9861.76177001216",
+    "currentlocation": "POINT (-1612.8760482650853 3901.404049763599)",
+    "currentmode": "AtRecreation",
+    "participantid": "295"
+  },
+  {
+    "availablebalance": "10081.192313496456",
+    "currentlocation": "POINT (-1438.2332547539638 2611.748276217267)",
+    "currentmode": "AtHome",
+    "participantid": "296"
+  },
+  {
+    "availablebalance": "4979.248296580041",
+    "currentlocation": "POINT (-4333.515968465038 7615.737312613843)",
+    "currentmode": "AtHome",
+    "participantid": "297"
+  },
+  {
+    "availablebalance": "3359.519314733456",
+    "currentlocation": "POINT (-2243.5448297967127 2850.638884025519)",
+    "currentmode": "AtHome",
+    "participantid": "299"
+  },
+  {
+    "availablebalance": "4628.710811360181",
+    "currentlocation": "POINT (-3128.9322678856615 6247.476953414441)",
+    "currentmode": "Transport",
+    "participantid": "300"
+  },
+  {
+    "availablebalance": "4961.158932865409",
+    "currentlocation": "POINT (-4504.755304520494 4806.5017413951255)",
+    "currentmode": "AtHome",
+    "participantid": "302"
+  },
+  {
+    "availablebalance": "9724.189527794886",
+    "currentlocation": "POINT (-2189.4862839531493 2831.767758541419)",
+    "currentmode": "AtHome",
+    "participantid": "303"
+  },
+  {
+    "availablebalance": "5100.614442947174",
+    "currentlocation": "POINT (-4428.791834410917 7538.537408091491)",
+    "currentmode": "AtHome",
+    "participantid": "304"
+  },
+  {
+    "availablebalance": "2074.280347539667",
+    "currentlocation": "POINT (-534.1316475698052 4783.913405574674)",
+    "currentmode": "AtHome",
+    "participantid": "305"
+  },
+  {
+    "availablebalance": "4721.908787372322",
+    "currentlocation": "POINT (-4440.967491126279 7506.096430807571)",
+    "currentmode": "AtHome",
+    "participantid": "306"
+  },
+  {
+    "availablebalance": "1683.1046975744923",
+    "currentlocation": "POINT (-2365.92810984519 4537.501613012345)",
+    "currentmode": "AtHome",
+    "participantid": "307"
+  },
+  {
+    "availablebalance": "4375.94895470575",
+    "currentlocation": "POINT (-3659.9455014118075 5700.540521028926)",
+    "currentmode": "AtHome",
+    "participantid": "308"
+  },
+  {
+    "availablebalance": "4565.31662962543",
+    "currentlocation": "POINT (-3064.912565138016 6024.384022015639)",
+    "currentmode": "AtHome",
+    "participantid": "309"
+  },
+  {
+    "availablebalance": "4480.355821636754",
+    "currentlocation": "POINT (-3660.661652333123 4826.716098292372)",
+    "currentmode": "AtHome",
+    "participantid": "310"
+  },
+  {
+    "availablebalance": "1019.745231184062",
+    "currentlocation": "POINT (-2523.7603877536035 4536.050220542302)",
+    "currentmode": "AtHome",
+    "participantid": "311"
+  },
+  {
+    "availablebalance": "4601.472843108622",
+    "currentlocation": "POINT (-2400.440960327807 5867.796703632828)",
+    "currentmode": "AtHome",
+    "participantid": "312"
+  },
+  {
+    "availablebalance": "2958.7686911433047",
+    "currentlocation": "POINT (-3653.7001033596434 4802.179237690303)",
+    "currentmode": "AtHome",
+    "participantid": "313"
+  },
+  {
+    "availablebalance": "3256.62811651463",
+    "currentlocation": "POINT (-2459.039092455746 2982.023367543819)",
+    "currentmode": "AtHome",
+    "participantid": "314"
+  },
+  {
+    "availablebalance": "10714.386474475945",
+    "currentlocation": "POINT (-3624.1610921193574 5661.511861934462)",
+    "currentmode": "AtHome",
+    "participantid": "315"
+  },
+  {
+    "availablebalance": "4739.424176957637",
+    "currentlocation": "POINT (-1791.2010589212853 5848.289718840059)",
+    "currentmode": "AtHome",
+    "participantid": "316"
+  },
+  {
+    "availablebalance": "2045.421995420339",
+    "currentlocation": "POINT (-2384.220843707006 2870.4897426167495)",
+    "currentmode": "AtHome",
+    "participantid": "317"
+  },
+  {
+    "availablebalance": "2652.5512964273034",
+    "currentlocation": "POINT (-2459.7544619357823 3053.668429981706)",
+    "currentmode": "AtHome",
+    "participantid": "318"
+  },
+  {
+    "availablebalance": "2410.94349034213",
+    "currentlocation": "POINT (-3339.738628192608 5572.408724311929)",
+    "currentmode": "AtHome",
+    "participantid": "319"
+  },
+  {
+    "availablebalance": "7173.903059594328",
+    "currentlocation": "POINT (-561.2541452995672 4861.258086269467)",
+    "currentmode": "AtHome",
+    "participantid": "320"
+  },
+  {
+    "availablebalance": "4648.074482796653",
+    "currentlocation": "POINT (-1962.9652693200424 4548.857435188247)",
+    "currentmode": "AtHome",
+    "participantid": "321"
+  },
+  {
+    "availablebalance": "2766.6104006952214",
+    "currentlocation": "POINT (-2506.0187192007047 4570.160002969814)",
+    "currentmode": "AtHome",
+    "participantid": "322"
+  },
+  {
+    "availablebalance": "5250.832934824231",
+    "currentlocation": "POINT (-500.729641793685 3540.8584150797824)",
+    "currentmode": "AtRecreation",
+    "participantid": "323"
+  },
+  {
+    "availablebalance": "4265.070139337817",
+    "currentlocation": "POINT (-3612.205005539718 5719.0686926678245)",
+    "currentmode": "AtHome",
+    "participantid": "324"
+  },
+  {
+    "availablebalance": "3327.0795676334083",
+    "currentlocation": "POINT (-1198.6242486468163 3068.55143298963)",
+    "currentmode": "AtHome",
+    "participantid": "325"
+  },
+  {
+    "availablebalance": "6527.084264907176",
+    "currentlocation": "POINT (-1257.2961138532453 3052.084873050113)",
+    "currentmode": "AtHome",
+    "participantid": "326"
+  },
+  {
+    "availablebalance": "4893.950434253271",
+    "currentlocation": "POINT (-3667.868435242565 4810.214863385205)",
+    "currentmode": "AtHome",
+    "participantid": "327"
+  },
+  {
+    "availablebalance": "2131.1438376305573",
+    "currentlocation": "POINT (-1099.8182546721594 3030.9610314766505)",
+    "currentmode": "AtHome",
+    "participantid": "328"
+  },
+  {
+    "availablebalance": "9848.55311127056",
+    "currentlocation": "POINT (-1624.6364536455433 5983.342110677975)",
+    "currentmode": "AtHome",
+    "participantid": "329"
+  },
+  {
+    "availablebalance": "3518.928776578928",
+    "currentlocation": "POINT (-1698.9928815786132 3773.5966598544746)",
+    "currentmode": "AtHome",
+    "participantid": "330"
+  },
+  {
+    "availablebalance": "8530.524606614481",
+    "currentlocation": "POINT (-1100.628103356437 2991.8794309319906)",
+    "currentmode": "AtHome",
+    "participantid": "331"
+  },
+  {
+    "availablebalance": "9019.456576099974",
+    "currentlocation": "POINT (-1554.9910108901931 5924.0332478370465)",
+    "currentmode": "AtHome",
+    "participantid": "332"
+  },
+  {
+    "availablebalance": "9258.736956421006",
+    "currentlocation": "POINT (-1526.8889347157697 5940.367229053723)",
+    "currentmode": "AtHome",
+    "participantid": "333"
+  },
+  {
+    "availablebalance": "8913.290955843975",
+    "currentlocation": "POINT (-4184.4086495505 5813.142739444134)",
+    "currentmode": "AtHome",
+    "participantid": "334"
+  },
+  {
+    "availablebalance": "10556.106629110676",
+    "currentlocation": "POINT (-4248.819387006125 5788.522023451577)",
+    "currentmode": "AtHome",
+    "participantid": "335"
+  },
+  {
+    "availablebalance": "8421.409304596047",
+    "currentlocation": "POINT (-1221.1177227396242 3008.5997338425304)",
+    "currentmode": "AtHome",
+    "participantid": "336"
+  },
+  {
+    "availablebalance": "11691.5851445534",
+    "currentlocation": "POINT (-4594.621089341681 4844.792221097786)",
+    "currentmode": "AtHome",
+    "participantid": "337"
+  },
+  {
+    "availablebalance": "389.00396882191495",
+    "currentlocation": "POINT (-1068.7657761917137 3485.8168341163882)",
+    "currentmode": "AtHome",
+    "participantid": "338"
+  },
+  {
+    "availablebalance": "8915.298504504372",
+    "currentlocation": "POINT (-4516.012364699888 7423.657066568119)",
+    "currentmode": "AtHome",
+    "participantid": "339"
+  },
+  {
+    "availablebalance": "10954.931752110022",
+    "currentlocation": "POINT (-4582.39247860098 4827.97280298465)",
+    "currentmode": "AtHome",
+    "participantid": "340"
+  },
+  {
+    "availablebalance": "4114.724892562324",
+    "currentlocation": "POINT (-2422.1170133244377 5851.209747752188)",
+    "currentmode": "Transport",
+    "participantid": "341"
+  },
+  {
+    "availablebalance": "3490.136822934195",
+    "currentlocation": "POINT (-1209.801145892734 2993.6850534071823)",
+    "currentmode": "AtHome",
+    "participantid": "342"
+  },
+  {
+    "availablebalance": "8593.341147298579",
+    "currentlocation": "POINT (-3389.335645230258 7144.3780989651705)",
+    "currentmode": "AtHome",
+    "participantid": "343"
+  },
+  {
+    "availablebalance": "4398.4288482293605",
+    "currentlocation": "POINT (-4586.54919027507 4800.050799355409)",
+    "currentmode": "AtHome",
+    "participantid": "344"
+  },
+  {
+    "availablebalance": "7365.907034689374",
+    "currentlocation": "POINT (-1932.9290522785125 3750.616604776836)",
+    "currentmode": "Transport",
+    "participantid": "345"
+  },
+  {
+    "availablebalance": "8097.816237389498",
+    "currentlocation": "POINT (-4205.864676357434 4901.163152284308)",
+    "currentmode": "AtHome",
+    "participantid": "347"
+  },
+  {
+    "availablebalance": "3229.009436135556",
+    "currentlocation": "POINT (-1130.1193865733924 2802.8119711319755)",
+    "currentmode": "AtHome",
+    "participantid": "348"
+  },
+  {
+    "availablebalance": "3028.135389488956",
+    "currentlocation": "POINT (-1199.6935402565507 2912.16419585481)",
+    "currentmode": "AtHome",
+    "participantid": "349"
+  },
+  {
+    "availablebalance": "7996.42488938015",
+    "currentlocation": "POINT (-1708.2280046188787 3851.633116573317)",
+    "currentmode": "AtRecreation",
+    "participantid": "350"
+  },
+  {
+    "availablebalance": "7484.580506959462",
+    "currentlocation": "POINT (-3368.2159495152814 7175.642938217877)",
+    "currentmode": "AtHome",
+    "participantid": "351"
+  },
+  {
+    "availablebalance": "1698.511746376573",
+    "currentlocation": "POINT (-1858.57230343092 2641.2837127883254)",
+    "currentmode": "Transport",
+    "participantid": "353"
+  },
+  {
+    "availablebalance": "1827.6267267750768",
+    "currentlocation": "POINT (-3392.3560445747407 7146.532919570891)",
+    "currentmode": "AtHome",
+    "participantid": "354"
+  },
+  {
+    "availablebalance": "4908.503201881234",
+    "currentlocation": "POINT (-1970.2535978351111 4563.743812385769)",
+    "currentmode": "AtHome",
+    "participantid": "355"
+  },
+  {
+    "availablebalance": "7574.796499697576",
+    "currentlocation": "POINT (-1064.2473286048946 2411.2311430629634)",
+    "currentmode": "AtHome",
+    "participantid": "357"
+  },
+  {
+    "availablebalance": "137.78556459684745",
+    "currentlocation": "POINT (-1578.3241572976324 3810.576991082258)",
+    "currentmode": "AtHome",
+    "participantid": "358"
+  },
+  {
+    "availablebalance": "1158.4789917962412",
+    "currentlocation": "POINT (-2434.1418800219876 3171.506940813787)",
+    "currentmode": "AtHome",
+    "participantid": "359"
+  },
+  {
+    "availablebalance": "3189.7317349992704",
+    "currentlocation": "POINT (-1521.094609950573 3810.5182886391167)",
+    "currentmode": "AtRecreation",
+    "participantid": "360"
+  },
+  {
+    "availablebalance": "1831.1370539227769",
+    "currentlocation": "POINT (-3901.4835499643664 7457.8475544263565)",
+    "currentmode": "AtHome",
+    "participantid": "361"
+  },
+  {
+    "availablebalance": "1806.052614557544",
+    "currentlocation": "POINT (-2111.5408728908583 5049.255508005186)",
+    "currentmode": "Transport",
+    "participantid": "362"
+  },
+  {
+    "availablebalance": "7818.997245477932",
+    "currentlocation": "POINT (-1924.2159256906089 2768.603159629036)",
+    "currentmode": "AtHome",
+    "participantid": "363"
+  },
+  {
+    "availablebalance": "3988.957375185402",
+    "currentlocation": "POINT (-3326.472915179759 7418.6298403975325)",
+    "currentmode": "AtHome",
+    "participantid": "364"
+  },
+  {
+    "availablebalance": "1615.2403354042697",
+    "currentlocation": "POINT (-1959.612619667316 2806.5418624505733)",
+    "currentmode": "AtHome",
+    "participantid": "365"
+  },
+  {
+    "availablebalance": "4453.305925554003",
+    "currentlocation": "POINT (-3320.2990907870203 7320.148943996546)",
+    "currentmode": "AtHome",
+    "participantid": "366"
+  },
+  {
+    "availablebalance": "4470.051869792381",
+    "currentlocation": "POINT (-3328.9835309039827 7438.858405609549)",
+    "currentmode": "AtHome",
+    "participantid": "367"
+  },
+  {
+    "availablebalance": "11173.705535408955",
+    "currentlocation": "POINT (-4358.880233143497 7565.133607923599)",
+    "currentmode": "AtHome",
+    "participantid": "368"
+  },
+  {
+    "availablebalance": "4047.6385541869977",
+    "currentlocation": "POINT (-4310.6205211837005 7422.912496765995)",
+    "currentmode": "AtHome",
+    "participantid": "369"
+  },
+  {
+    "availablebalance": "4045.657859312268",
+    "currentlocation": "POINT (-1986.9963182711988 4569.521278744788)",
+    "currentmode": "AtHome",
+    "participantid": "370"
+  },
+  {
+    "availablebalance": "2621.5858819239247",
+    "currentlocation": "POINT (-1062.346058478995 3495.849766278384)",
+    "currentmode": "AtHome",
+    "participantid": "371"
+  },
+  {
+    "availablebalance": "3751.795442745851",
+    "currentlocation": "POINT (-1429.0877118281621 5978.549892300147)",
+    "currentmode": "AtHome",
+    "participantid": "372"
+  },
+  {
+    "availablebalance": "4091.896337275036",
+    "currentlocation": "POINT (-2014.1489753523679 4777.663378548366)",
+    "currentmode": "AtHome",
+    "participantid": "373"
+  },
+  {
+    "availablebalance": "1111.2558269689396",
+    "currentlocation": "POINT (-2205.190246089389 3173.575583895354)",
+    "currentmode": "AtHome",
+    "participantid": "374"
+  },
+  {
+    "availablebalance": "3981.3891006659023",
+    "currentlocation": "POINT (-4507.892057542517 4987.942961995617)",
+    "currentmode": "AtHome",
+    "participantid": "375"
+  },
+  {
+    "availablebalance": "3475.0002072905163",
+    "currentlocation": "POINT (-4524.690918788527 4888.139820285211)",
+    "currentmode": "AtHome",
+    "participantid": "376"
+  },
+  {
+    "availablebalance": "10629.67951783252",
+    "currentlocation": "POINT (-4445.990440003654 4896.120899469506)",
+    "currentmode": "AtHome",
+    "participantid": "377"
+  },
+  {
+    "availablebalance": "1510.9704029075458",
+    "currentlocation": "POINT (-558.9865959211788 4894.39338535031)",
+    "currentmode": "AtHome",
+    "participantid": "378"
+  },
+  {
+    "availablebalance": "4450.325708118207",
+    "currentlocation": "POINT (-3370.8429066942085 5184.208775688826)",
+    "currentmode": "AtHome",
+    "participantid": "379"
+  },
+  {
+    "availablebalance": "2233.824157000132",
+    "currentlocation": "POINT (-1933.3787060780535 2790.9352349339492)",
+    "currentmode": "AtHome",
+    "participantid": "381"
+  },
+  {
+    "availablebalance": "2485.876891148236",
+    "currentlocation": "POINT (-1194.0175644198266 2713.530791786246)",
+    "currentmode": "AtHome",
+    "participantid": "385"
+  },
+  {
+    "availablebalance": "5650.235626624025",
+    "currentlocation": "POINT (-1599.6852012206155 3899.3646581192606)",
+    "currentmode": "AtRecreation",
+    "participantid": "386"
+  },
+  {
+    "availablebalance": "2283.7326219637607",
+    "currentlocation": "POINT (-2148.351337289022 2598.646649596783)",
+    "currentmode": "AtHome",
+    "participantid": "387"
+  },
+  {
+    "availablebalance": "3854.2283764839294",
+    "currentlocation": "POINT (-2300.3377558350776 5042.222403181147)",
+    "currentmode": "AtHome",
+    "participantid": "388"
+  },
+  {
+    "availablebalance": "5861.442953432977",
+    "currentlocation": "POINT (-1445.5359169967742 2421.384615530726)",
+    "currentmode": "AtHome",
+    "participantid": "389"
+  },
+  {
+    "availablebalance": "1986.06885192205",
+    "currentlocation": "POINT (-1710.7423228864238 3755.2547054832744)",
+    "currentmode": "AtHome",
+    "participantid": "390"
+  },
+  {
+    "availablebalance": "2743.976310528524",
+    "currentlocation": "POINT (-2730.2857598556793 6842.811595254248)",
+    "currentmode": "AtHome",
+    "participantid": "391"
+  },
+  {
+    "availablebalance": "786.9805316294746",
+    "currentlocation": "POINT (-2348.1177686819206 4595.1383764736265)",
+    "currentmode": "AtHome",
+    "participantid": "393"
+  },
+  {
+    "availablebalance": "2698.1669392394733",
+    "currentlocation": "POINT (-2460.476417300966 2527.5847373992437)",
+    "currentmode": "AtHome",
+    "participantid": "394"
+  },
+  {
+    "availablebalance": "2659.7757237029086",
+    "currentlocation": "POINT (-767.4613794418494 4456.950323543237)",
+    "currentmode": "AtHome",
+    "participantid": "395"
+  },
+  {
+    "availablebalance": "6421.006722523414",
+    "currentlocation": "POINT (-1133.5860016991571 4009.946794086544)",
+    "currentmode": "AtHome",
+    "participantid": "396"
+  },
+  {
+    "availablebalance": "2379.2078000391625",
+    "currentlocation": "POINT (-1242.3659533460157 3226.103279105531)",
+    "currentmode": "AtHome",
+    "participantid": "397"
+  },
+  {
+    "availablebalance": "2417.234316213576",
+    "currentlocation": "POINT (-2346.590537454686 3089.0899545184902)",
+    "currentmode": "AtHome",
+    "participantid": "398"
+  },
+  {
+    "availablebalance": "3755.105716502694",
+    "currentlocation": "POINT (-701.0008806512359 6324.598703209237)",
+    "currentmode": "AtHome",
+    "participantid": "399"
+  },
+  {
+    "availablebalance": "1722.9189298979254",
+    "currentlocation": "POINT (-2358.1029982930977 4522.886813031062)",
+    "currentmode": "AtHome",
+    "participantid": "400"
+  },
+  {
+    "availablebalance": "3744.438576726479",
+    "currentlocation": "POINT (-718.848317139202 6348.727476809763)",
+    "currentmode": "AtHome",
+    "participantid": "401"
+  },
+  {
+    "availablebalance": "585.8429893124087",
+    "currentlocation": "POINT (-1152.2300044801163 4315.150184389265)",
+    "currentmode": "Transport",
+    "participantid": "402"
+  },
+  {
+    "availablebalance": "3264.103884515528",
+    "currentlocation": "POINT (-1455.6394789215026 2645.822143293767)",
+    "currentmode": "AtHome",
+    "participantid": "403"
+  },
+  {
+    "availablebalance": "2143.137980539312",
+    "currentlocation": "POINT (-2735.451443505526 6860.5732707148145)",
+    "currentmode": "AtHome",
+    "participantid": "404"
+  },
+  {
+    "availablebalance": "2408.361032189739",
+    "currentlocation": "POINT (-1963.4519322135172 2990.815467537704)",
+    "currentmode": "Transport",
+    "participantid": "405"
+  },
+  {
+    "availablebalance": "1893.5122740082104",
+    "currentlocation": "POINT (-1394.1368291910871 4668.442933309888)",
+    "currentmode": "AtHome",
+    "participantid": "408"
+  },
+  {
+    "availablebalance": "5267.827247159794",
+    "currentlocation": "POINT (-1620.5865152362605 3641.318449722888)",
+    "currentmode": "AtHome",
+    "participantid": "409"
+  },
+  {
+    "availablebalance": "3867.516379151606",
+    "currentlocation": "POINT (-4540.301124396293 6985.010462454658)",
+    "currentmode": "AtHome",
+    "participantid": "410"
+  },
+  {
+    "availablebalance": "2257.300393199557",
+    "currentlocation": "POINT (-1637.217495718749 3862.788194356159)",
+    "currentmode": "AtRestaurant",
+    "participantid": "411"
+  },
+  {
+    "availablebalance": "604.519313609048",
+    "currentlocation": "POINT (-1619.6814433867187 5595.154266781606)",
+    "currentmode": "AtHome",
+    "participantid": "412"
+  },
+  {
+    "availablebalance": "10463.81642301863",
+    "currentlocation": "POINT (-4134.2864924654805 7410.603923315937)",
+    "currentmode": "AtHome",
+    "participantid": "413"
+  },
+  {
+    "availablebalance": "3868.3865368314687",
+    "currentlocation": "POINT (-4082.113966624071 7403.398656687532)",
+    "currentmode": "AtHome",
+    "participantid": "414"
+  },
+  {
+    "availablebalance": "1935.2855560196208",
+    "currentlocation": "POINT (-1679.5047761129108 5597.565104297342)",
+    "currentmode": "AtHome",
+    "participantid": "852"
+  },
+  {
+    "availablebalance": "4437.937410671819",
+    "currentlocation": "POINT (330.14114434449584 787.647734479416)",
+    "currentmode": "AtHome",
+    "participantid": "854"
+  },
+  {
+    "availablebalance": "2179.80915697037",
+    "currentlocation": "POINT (-3942.7797281797416 5499.95539159706)",
+    "currentmode": "AtRestaurant",
+    "participantid": "857"
+  },
+  {
+    "availablebalance": "4310.640825775895",
+    "currentlocation": "POINT (-3872.888689535182 7154.957894485243)",
+    "currentmode": "AtHome",
+    "participantid": "861"
+  },
+  {
+    "availablebalance": "2460.5328004320268",
+    "currentlocation": "POINT (-4082.027384134608 5503.342090929863)",
+    "currentmode": "AtHome",
+    "participantid": "863"
+  },
+  {
+    "availablebalance": "1697.678546313942",
+    "currentlocation": "POINT (-1001.888808949487 3002.8258189256917)",
+    "currentmode": "AtHome",
+    "participantid": "865"
+  },
+  {
+    "availablebalance": "1559.751002107802",
+    "currentlocation": "POINT (-3767.516655337967 6835.676204998095)",
+    "currentmode": "AtHome",
+    "participantid": "866"
+  },
+  {
+    "availablebalance": "4059.050664126608",
+    "currentlocation": "POINT (621.9038826743756 2887.89031337703)",
+    "currentmode": "AtHome",
+    "participantid": "868"
+  },
+  {
+    "availablebalance": "6344.570517688036",
+    "currentlocation": "POINT (-4239.719365074045 7055.2062989816795)",
+    "currentmode": "AtHome",
+    "participantid": "869"
+  },
+  {
+    "availablebalance": "2266.0689358691",
+    "currentlocation": "POINT (-3781.0711465780173 6745.343902855307)",
+    "currentmode": "AtHome",
+    "participantid": "870"
+  },
+  {
+    "availablebalance": "6583.533598166671",
+    "currentlocation": "POINT (-1220.644558831565 3062.0058122699493)",
+    "currentmode": "AtHome",
+    "participantid": "871"
+  },
+  {
+    "availablebalance": "4372.597967330893",
+    "currentlocation": "POINT (-1069.2315403471373 3063.548904359576)",
+    "currentmode": "AtHome",
+    "participantid": "873"
+  },
+  {
+    "availablebalance": "2269.194926749996",
+    "currentlocation": "POINT (-3882.915999876255 5409.125648465788)",
+    "currentmode": "AtHome",
+    "participantid": "874"
+  },
+  {
+    "availablebalance": "4222.587561020224",
+    "currentlocation": "POINT (-4196.480509607843 4895.394159486577)",
+    "currentmode": "AtHome",
+    "participantid": "877"
+  },
+  {
+    "availablebalance": "4156.374476669532",
+    "currentlocation": "POINT (-4586.735738478009 4825.654095360672)",
+    "currentmode": "AtHome",
+    "participantid": "878"
+  },
+  {
+    "availablebalance": "3560.358575190753",
+    "currentlocation": "POINT (-4596.915260360124 4843.512232541971)",
+    "currentmode": "AtHome",
+    "participantid": "879"
+  },
+  {
+    "availablebalance": "4344.656150876386",
+    "currentlocation": "POINT (-793.5455427814742 1338.2656878794949)",
+    "currentmode": "AtHome",
+    "participantid": "880"
+  },
+  {
+    "availablebalance": "3033.967704718088",
+    "currentlocation": "POINT (-3325.3139367657286 7597.713732215858)",
+    "currentmode": "AtHome",
+    "participantid": "881"
+  },
+  {
+    "availablebalance": "5779.670100273647",
+    "currentlocation": "POINT (2032.077021524605 5307.842344395387)",
+    "currentmode": "AtHome",
+    "participantid": "882"
+  },
+  {
+    "availablebalance": "5559.913395686831",
+    "currentlocation": "POINT (-3297.127811784741 7311.377248073791)",
+    "currentmode": "AtHome",
+    "participantid": "888"
+  },
+  {
+    "availablebalance": "4916.689665298577",
+    "currentlocation": "POINT (-2.579328033867741 38.011648610051495)",
+    "currentmode": "AtHome",
+    "participantid": "889"
+  },
+  {
+    "availablebalance": "3844.3731213498463",
+    "currentlocation": "POINT (-3774.8606285405017 6642.571051773959)",
+    "currentmode": "AtHome",
+    "participantid": "890"
+  },
+  {
+    "availablebalance": "6213.532709824427",
+    "currentlocation": "POINT (-3330.12743036265 7382.550402380843)",
+    "currentmode": "AtHome",
+    "participantid": "891"
+  },
+  {
+    "availablebalance": "4393.533365805659",
+    "currentlocation": "POINT (-4162.596889059098 6976.507364522276)",
+    "currentmode": "AtHome",
+    "participantid": "893"
+  },
+  {
+    "availablebalance": "3533.566048807733",
+    "currentlocation": "POINT (-4111.228124587779 6982.239843024943)",
+    "currentmode": "AtHome",
+    "participantid": "894"
+  },
+  {
+    "availablebalance": "3001.7620808355305",
+    "currentlocation": "POINT (-4351.305343845601 7419.828579350854)",
+    "currentmode": "AtHome",
+    "participantid": "895"
+  },
+  {
+    "availablebalance": "4166.619646740425",
+    "currentlocation": "POINT (-4325.195738039542 5005.594829601602)",
+    "currentmode": "AtHome",
+    "participantid": "898"
+  },
+  {
+    "availablebalance": "4664.239784034899",
+    "currentlocation": "POINT (-3799.337592930323 5699.711826912906)",
+    "currentmode": "Transport",
+    "participantid": "899"
+  },
+  {
+    "availablebalance": "4218.785771439689",
+    "currentlocation": "POINT (-1201.9808748054315 2998.612458380545)",
+    "currentmode": "AtHome",
+    "participantid": "903"
+  },
+  {
+    "availablebalance": "4231.245703111827",
+    "currentlocation": "POINT (-1619.2417336779565 5673.535381976727)",
+    "currentmode": "AtHome",
+    "participantid": "904"
+  },
+  {
+    "availablebalance": "3504.306875976822",
+    "currentlocation": "POINT (-3814.5668194489326 7170.80049873698)",
+    "currentmode": "AtHome",
+    "participantid": "905"
+  },
+  {
+    "availablebalance": "1418.9692634255862",
+    "currentlocation": "POINT (-3782.8472558056706 6364.020878806935)",
+    "currentmode": "AtRecreation",
+    "participantid": "906"
+  },
+  {
+    "availablebalance": "3716.882012037273",
+    "currentlocation": "POINT (-3774.2709856509605 7171.61551912498)",
+    "currentmode": "AtHome",
+    "participantid": "908"
+  },
+  {
+    "availablebalance": "2583.454866836261",
+    "currentlocation": "POINT (-3776.001523423852 7147.410788344418)",
+    "currentmode": "AtHome",
+    "participantid": "910"
+  },
+  {
+    "availablebalance": "2383.554300148174",
+    "currentlocation": "POINT (-4074.885984570834 5087.873886877568)",
+    "currentmode": "AtHome",
+    "participantid": "912"
+  },
+  {
+    "availablebalance": "4506.947396044794",
+    "currentlocation": "POINT (-1706.5355089438558 5704.95317591239)",
+    "currentmode": "AtHome",
+    "participantid": "913"
+  },
+  {
+    "availablebalance": "5929.909207653289",
+    "currentlocation": "POINT (2233.1240881346425 4571.347828587747)",
+    "currentmode": "AtHome",
+    "participantid": "914"
+  },
+  {
+    "availablebalance": "2120.971837603334",
+    "currentlocation": "POINT (-3272.1944726072365 6622.337829257592)",
+    "currentmode": "AtHome",
+    "participantid": "915"
+  },
+  {
+    "availablebalance": "3281.413970499906",
+    "currentlocation": "POINT (-1131.3110713899086 2909.6247381786993)",
+    "currentmode": "AtHome",
+    "participantid": "916"
+  },
+  {
+    "availablebalance": "3479.013575564072",
+    "currentlocation": "POINT (-3778.272591852368 7180.856465606073)",
+    "currentmode": "AtHome",
+    "participantid": "917"
+  },
+  {
+    "availablebalance": "4812.7733504276375",
+    "currentlocation": "POINT (-1389.733859695731 3820.595112731895)",
+    "currentmode": "AtHome",
+    "participantid": "918"
+  },
+  {
+    "availablebalance": "2250.5873830945693",
+    "currentlocation": "POINT (-4149.797185986286 5460.883891589355)",
+    "currentmode": "AtHome",
+    "participantid": "921"
+  },
+  {
+    "availablebalance": "4612.174395697755",
+    "currentlocation": "POINT (-1438.7234830633947 3815.642678835274)",
+    "currentmode": "AtHome",
+    "participantid": "922"
+  },
+  {
+    "availablebalance": "3766.799045906504",
+    "currentlocation": "POINT (-368.53259505516115 3629.325206786423)",
+    "currentmode": "AtHome",
+    "participantid": "926"
+  },
+  {
+    "availablebalance": "6638.455452631144",
+    "currentlocation": "POINT (-372.8116493477661 3625.3493881962586)",
+    "currentmode": "AtHome",
+    "participantid": "927"
+  },
+  {
+    "availablebalance": "4384.677380403562",
+    "currentlocation": "POINT (-3238.805104313656 7221.338533379569)",
+    "currentmode": "AtHome",
+    "participantid": "928"
+  },
+  {
+    "availablebalance": "1332.1740699937222",
+    "currentlocation": "POINT (-3258.2451298192673 6635.896412525215)",
+    "currentmode": "AtHome",
+    "participantid": "929"
+  },
+  {
+    "availablebalance": "3676.707817326912",
+    "currentlocation": "POINT (-379.33838264260726 3602.3194386632076)",
+    "currentmode": "AtHome",
+    "participantid": "930"
+  },
+  {
+    "availablebalance": "1347.5575201434822",
+    "currentlocation": "POINT (-3575.5938269792605 5871.3108212677735)",
+    "currentmode": "AtHome",
+    "participantid": "931"
+  },
+  {
+    "availablebalance": "2104.681804466296",
+    "currentlocation": "POINT (-3194.541192984135 7213.091093857307)",
+    "currentmode": "AtHome",
+    "participantid": "932"
+  },
+  {
+    "availablebalance": "3067.9633021447544",
+    "currentlocation": "POINT (-4512.776657169672 4805.689058320287)",
+    "currentmode": "AtHome",
+    "participantid": "933"
+  },
+  {
+    "availablebalance": "6473.039370365714",
+    "currentlocation": "POINT (-49.330318444446 3986.322344996892)",
+    "currentmode": "Transport",
+    "participantid": "934"
+  },
+  {
+    "availablebalance": "2243.681397936163",
+    "currentlocation": "POINT (-4493.440588728231 4790.896518958078)",
+    "currentmode": "AtHome",
+    "participantid": "935"
+  },
+  {
+    "availablebalance": "5605.519142676917",
+    "currentlocation": "POINT (-3333.607348983237 7509.648003413355)",
+    "currentmode": "AtHome",
+    "participantid": "936"
+  },
+  {
+    "availablebalance": "5087.701198835764",
+    "currentlocation": "POINT (-3319.2439490653433 7530.674934822572)",
+    "currentmode": "AtHome",
+    "participantid": "937"
+  },
+  {
+    "availablebalance": "1027.8489240756826",
+    "currentlocation": "POINT (-865.426320009803 5515.623709066041)",
+    "currentmode": "Transport",
+    "participantid": "938"
+  },
+  {
+    "availablebalance": "1032.4661855593768",
+    "currentlocation": "POINT (-4109.71055680257 5244.836252760056)",
+    "currentmode": "AtHome",
+    "participantid": "939"
+  },
+  {
+    "availablebalance": "3812.60186999889",
+    "currentlocation": "POINT (-3293.686734912336 6611.326879209524)",
+    "currentmode": "AtHome",
+    "participantid": "940"
+  },
+  {
+    "availablebalance": "3558.122682845069",
+    "currentlocation": "POINT (-3266.7575817555253 6613.38394303702)",
+    "currentmode": "AtHome",
+    "participantid": "941"
+  },
+  {
+    "availablebalance": "1802.004718964528",
+    "currentlocation": "POINT (-3790.0547245606476 6426.918155755548)",
+    "currentmode": "AtHome",
+    "participantid": "942"
+  },
+  {
+    "availablebalance": "4053.110975098378",
+    "currentlocation": "POINT (-4195.94017028859 4882.223905810497)",
+    "currentmode": "AtHome",
+    "participantid": "943"
+  },
+  {
+    "availablebalance": "3825.352703323393",
+    "currentlocation": "POINT (2111.100769701764 4063.0561713955035)",
+    "currentmode": "AtHome",
+    "participantid": "944"
+  },
+  {
+    "availablebalance": "3264.439012375779",
+    "currentlocation": "POINT (-3411.7730384111137 6038.17062412)",
+    "currentmode": "AtHome",
+    "participantid": "945"
+  },
+  {
+    "availablebalance": "3074.98467906224",
+    "currentlocation": "POINT (-3298.2315275483497 6628.97049603114)",
+    "currentmode": "AtHome",
+    "participantid": "946"
+  },
+  {
+    "availablebalance": "2578.7951814138323",
+    "currentlocation": "POINT (-1497.2058706321964 978.3110915491427)",
+    "currentmode": "AtHome",
+    "participantid": "947"
+  },
+  {
+    "availablebalance": "3430.2127591663816",
+    "currentlocation": "POINT (341.1115359914733 4747.94016263901)",
+    "currentmode": "AtHome",
+    "participantid": "948"
+  },
+  {
+    "availablebalance": "2225.262397288592",
+    "currentlocation": "POINT (-3402.3674742879793 7147.916999015995)",
+    "currentmode": "AtHome",
+    "participantid": "949"
+  },
+  {
+    "availablebalance": "5533.907409702807",
+    "currentlocation": "POINT (2177.9443871208114 5021.823397692597)",
+    "currentmode": "AtHome",
+    "participantid": "950"
+  },
+  {
+    "availablebalance": "1812.8613312762163",
+    "currentlocation": "POINT (-3234.3863128697435 6381.881556924174)",
+    "currentmode": "AtHome",
+    "participantid": "951"
+  },
+  {
+    "availablebalance": "2961.4010567467512",
+    "currentlocation": "POINT (2182.5352931743437 5043.293217415122)",
+    "currentmode": "AtHome",
+    "participantid": "952"
+  },
+  {
+    "availablebalance": "1812.0259438650603",
+    "currentlocation": "POINT (414.46800938953857 4749.751129616142)",
+    "currentmode": "AtHome",
+    "participantid": "953"
+  },
+  {
+    "availablebalance": "3880.0841193534793",
+    "currentlocation": "POINT (-3389.8605896499735 7142.504036313241)",
+    "currentmode": "AtHome",
+    "participantid": "954"
+  },
+  {
+    "availablebalance": "6628.257274923236",
+    "currentlocation": "POINT (-1487.49560729855 951.6054633507447)",
+    "currentmode": "AtHome",
+    "participantid": "955"
+  },
+  {
+    "availablebalance": "6318.640298616601",
+    "currentlocation": "POINT (-1703.8331328252648 1839.326639110795)",
+    "currentmode": "AtHome",
+    "participantid": "956"
+  },
+  {
+    "availablebalance": "1881.0333814367464",
+    "currentlocation": "POINT (-3861.2079592340287 7444.404782879035)",
+    "currentmode": "AtHome",
+    "participantid": "957"
+  },
+  {
+    "availablebalance": "5813.101569151386",
+    "currentlocation": "POINT (823.9669889960232 337.7443506549204)",
+    "currentmode": "AtHome",
+    "participantid": "958"
+  },
+  {
+    "availablebalance": "2099.9437891070406",
+    "currentlocation": "POINT (-3275.5413869405384 7307.0747295437295)",
+    "currentmode": "AtHome",
+    "participantid": "959"
+  },
+  {
+    "availablebalance": "1304.6526250050665",
+    "currentlocation": "POINT (-483.6070831695373 5757.9034671816335)",
+    "currentmode": "AtHome",
+    "participantid": "960"
+  },
+  {
+    "availablebalance": "6819.812757741161",
+    "currentlocation": "POINT (-48.13256090064962 1660.8364790495668)",
+    "currentmode": "Transport",
+    "participantid": "961"
+  },
+  {
+    "availablebalance": "2025.7690346252243",
+    "currentlocation": "POINT (-3406.134480646205 7307.143561429393)",
+    "currentmode": "AtHome",
+    "participantid": "962"
+  },
+  {
+    "availablebalance": "3765.8222679811865",
+    "currentlocation": "POINT (-430.3662269508244 1751.7543151621858)",
+    "currentmode": "AtHome",
+    "participantid": "963"
+  },
+  {
+    "availablebalance": "2159.124066041312",
+    "currentlocation": "POINT (-4344.171179961426 7514.790455585906)",
+    "currentmode": "AtHome",
+    "participantid": "964"
+  },
+  {
+    "availablebalance": "3933.541773361634",
+    "currentlocation": "POINT (-410.0764968922995 1747.26222881083)",
+    "currentmode": "AtHome",
+    "participantid": "965"
+  },
+  {
+    "availablebalance": "3334.872029082544",
+    "currentlocation": "POINT (-433.2796618299616 1770.770016461628)",
+    "currentmode": "AtHome",
+    "participantid": "966"
+  },
+  {
+    "availablebalance": "1005.027957837296",
+    "currentlocation": "POINT (-4058.609920213049 5169.767445184374)",
+    "currentmode": "AtHome",
+    "participantid": "967"
+  },
+  {
+    "availablebalance": "1210.9723692812229",
+    "currentlocation": "POINT (-4199.1433175908305 5555.170642159958)",
+    "currentmode": "AtHome",
+    "participantid": "968"
+  },
+  {
+    "availablebalance": "5282.398449123174",
+    "currentlocation": "POINT (-1511.7645719761797 1896.827827854746)",
+    "currentmode": "AtHome",
+    "participantid": "969"
+  },
+  {
+    "availablebalance": "2772.424961243774",
+    "currentlocation": "POINT (691.9240174727879 331.74200714208257)",
+    "currentmode": "AtHome",
+    "participantid": "970"
+  },
+  {
+    "availablebalance": "2911.6034592777164",
+    "currentlocation": "POINT (2405.1302538902714 4033.1838921950034)",
+    "currentmode": "AtHome",
+    "participantid": "971"
+  },
+  {
+    "availablebalance": "1783.8954780866366",
+    "currentlocation": "POINT (-4295.645133552066 4891.172968322428)",
+    "currentmode": "AtHome",
+    "participantid": "972"
+  },
+  {
+    "availablebalance": "5177.071277121954",
+    "currentlocation": "POINT (2199.8523676887808 5268.126362996234)",
+    "currentmode": "AtHome",
+    "participantid": "973"
+  },
+  {
+    "availablebalance": "4371.155197992571",
+    "currentlocation": "POINT (-3215.433207936525 6492.519115583444)",
+    "currentmode": "AtRecreation",
+    "participantid": "974"
+  },
+  {
+    "availablebalance": "2334.8897399567063",
+    "currentlocation": "POINT (-1770.813085589012 2625.994824798966)",
+    "currentmode": "AtHome",
+    "participantid": "975"
+  },
+  {
+    "availablebalance": "5679.720737269632",
+    "currentlocation": "POINT (-1796.8494404619064 2615.2990392254947)",
+    "currentmode": "AtHome",
+    "participantid": "976"
+  },
+  {
+    "availablebalance": "4315.756116489089",
+    "currentlocation": "POINT (-4431.071903516416 4986.187406538733)",
+    "currentmode": "AtHome",
+    "participantid": "977"
+  },
+  {
+    "availablebalance": "2050.818678507746",
+    "currentlocation": "POINT (-4436.017644082696 7441.489320527886)",
+    "currentmode": "AtHome",
+    "participantid": "978"
+  },
+  {
+    "availablebalance": "2402.6777761920466",
+    "currentlocation": "POINT (-4449.477643097176 7416.196113468578)",
+    "currentmode": "AtHome",
+    "participantid": "979"
+  },
+  {
+    "availablebalance": "1839.591852092265",
+    "currentlocation": "POINT (-4349.309091776295 7213.541765056712)",
+    "currentmode": "AtHome",
+    "participantid": "980"
+  },
+  {
+    "availablebalance": "2094.751524200477",
+    "currentlocation": "POINT (-4600.062111656344 4996.27411890603)",
+    "currentmode": "AtHome",
+    "participantid": "981"
+  },
+  {
+    "availablebalance": "5516.575971080834",
+    "currentlocation": "POINT (1254.2387191852774 1545.2607913003292)",
+    "currentmode": "AtHome",
+    "participantid": "982"
+  },
+  {
+    "availablebalance": "5856.744529696101",
+    "currentlocation": "POINT (1256.3141156257354 1566.7972243994398)",
+    "currentmode": "AtHome",
+    "participantid": "983"
+  },
+  {
+    "availablebalance": "1145.9746307006635",
+    "currentlocation": "POINT (-1596.1095253257768 3807.2089986005285)",
+    "currentmode": "AtHome",
+    "participantid": "984"
+  },
+  {
+    "availablebalance": "2429.634889729458",
+    "currentlocation": "POINT (-2060.173078226845 2741.7778823512554)",
+    "currentmode": "AtHome",
+    "participantid": "985"
+  },
+  {
+    "availablebalance": "4281.831232000538",
+    "currentlocation": "POINT (-2031.9986229091098 2793.698092899543)",
+    "currentmode": "AtHome",
+    "participantid": "986"
+  },
+  {
+    "availablebalance": "4789.671191312066",
+    "currentlocation": "POINT (-2363.9819437449723 2583.0203046584083)",
+    "currentmode": "AtHome",
+    "participantid": "987"
+  },
+  {
+    "availablebalance": "2817.2194831553056",
+    "currentlocation": "POINT (-2374.205219303569 2585.3543368253213)",
+    "currentmode": "AtHome",
+    "participantid": "988"
+  },
+  {
+    "availablebalance": "1213.5754094783842",
+    "currentlocation": "POINT (-4307.0687144620915 6674.080324564559)",
+    "currentmode": "AtHome",
+    "participantid": "989"
+  },
+  {
+    "availablebalance": "729.0131816265393",
+    "currentlocation": "POINT (-3488.304931264468 6529.420455091727)",
+    "currentmode": "AtHome",
+    "participantid": "990"
+  },
+  {
+    "availablebalance": "1008.427527411722",
+    "currentlocation": "POINT (-1288.973858577208 3711.692127221675)",
+    "currentmode": "Transport",
+    "participantid": "991"
+  },
+  {
+    "availablebalance": "5208.137033520088",
+    "currentlocation": "POINT (1033.4080922685016 424.13877539643045)",
+    "currentmode": "AtHome",
+    "participantid": "992"
+  },
+  {
+    "availablebalance": "2051.8260804730244",
+    "currentlocation": "POINT (732.879247406784 2084.694821357077)",
+    "currentmode": "AtHome",
+    "participantid": "993"
+  },
+  {
+    "availablebalance": "4171.820249591658",
+    "currentlocation": "POINT (-4137.147501087863 7410.179130787083)",
+    "currentmode": "AtHome",
+    "participantid": "415"
+  },
+  {
+    "availablebalance": "6201.739599625361",
+    "currentlocation": "POINT (-1610.8259240859934 3623.641989591707)",
+    "currentmode": "AtHome",
+    "participantid": "416"
+  },
+  {
+    "availablebalance": "1789.4333349064618",
+    "currentlocation": "POINT (-505.182324365278 3562.3707048242186)",
+    "currentmode": "AtRecreation",
+    "participantid": "417"
+  },
+  {
+    "availablebalance": "1137.2575573958752",
+    "currentlocation": "POINT (-1037.486578142945 3616.7432205529217)",
+    "currentmode": "AtHome",
+    "participantid": "418"
+  },
+  {
+    "availablebalance": "926.1466670817229",
+    "currentlocation": "POINT (-986.817947566211 5800.428775243561)",
+    "currentmode": "Transport",
+    "participantid": "419"
+  },
+  {
+    "availablebalance": "5492.713582492548",
+    "currentlocation": "POINT (1307.8497381984043 3516.2782872080497)",
+    "currentmode": "AtHome",
+    "participantid": "420"
+  },
+  {
+    "availablebalance": "7218.410435930442",
+    "currentlocation": "POINT (-1230.3858387614157 3079.8013896202624)",
+    "currentmode": "AtHome",
+    "participantid": "421"
+  },
+  {
+    "availablebalance": "5504.550691631653",
+    "currentlocation": "POINT (-1143.1739513334599 2899.1815293197105)",
+    "currentmode": "AtHome",
+    "participantid": "422"
+  },
+  {
+    "availablebalance": "5250.1202098351",
+    "currentlocation": "POINT (1304.2698900555138 3620.7559570413537)",
+    "currentmode": "AtHome",
+    "participantid": "423"
+  },
+  {
+    "availablebalance": "1098.17938857976",
+    "currentlocation": "POINT (-1665.761173721802 4090.6640641045947)",
+    "currentmode": "AtHome",
+    "participantid": "424"
+  },
+  {
+    "availablebalance": "3429.59363035405",
+    "currentlocation": "POINT (-1063.6047304911226 2912.0056820197597)",
+    "currentmode": "AtHome",
+    "participantid": "425"
+  },
+  {
+    "availablebalance": "6284.69686468078",
+    "currentlocation": "POINT (-2484.683711474812 2500.179201388168)",
+    "currentmode": "AtHome",
+    "participantid": "426"
+  },
+  {
+    "availablebalance": "5901.973843444226",
+    "currentlocation": "POINT (-1511.2134253476415 3809.2728752189373)",
+    "currentmode": "AtRecreation",
+    "participantid": "427"
+  },
+  {
+    "availablebalance": "5317.712165913975",
+    "currentlocation": "POINT (1305.0254988424501 3611.747815603176)",
+    "currentmode": "AtHome",
+    "participantid": "428"
+  },
+  {
+    "availablebalance": "11908.18274031997",
+    "currentlocation": "POINT (-667.130460630689 6381.226558853645)",
+    "currentmode": "AtHome",
+    "participantid": "429"
+  },
+  {
+    "availablebalance": "1278.328284288836",
+    "currentlocation": "POINT (-2286.0445170956937 5007.434540608557)",
+    "currentmode": "AtHome",
+    "participantid": "430"
+  },
+  {
+    "availablebalance": "3438.937097952209",
+    "currentlocation": "POINT (-2361.0324727249485 2426.631425790066)",
+    "currentmode": "Transport",
+    "participantid": "431"
+  },
+  {
+    "availablebalance": "2179.135883127408",
+    "currentlocation": "POINT (-1287.8302229671544 3688.9912490147253)",
+    "currentmode": "Transport",
+    "participantid": "432"
+  },
+  {
+    "availablebalance": "9568.010171327243",
+    "currentlocation": "POINT (-1651.9374347777432 5620.078627851311)",
+    "currentmode": "AtHome",
+    "participantid": "433"
+  },
+  {
+    "availablebalance": "6345.157419711885",
+    "currentlocation": "POINT (-1614.4411115176308 3876.8173553491097)",
+    "currentmode": "AtRecreation",
+    "participantid": "434"
+  },
+  {
+    "availablebalance": "677.7949970032496",
+    "currentlocation": "POINT (-2267.7053916289133 4992.151656831476)",
+    "currentmode": "AtHome",
+    "participantid": "435"
+  },
+  {
+    "availablebalance": "954.5100264948974",
+    "currentlocation": "POINT (-227.0595911015228 3868.047421668041)",
+    "currentmode": "AtRecreation",
+    "participantid": "436"
+  },
+  {
+    "availablebalance": "3559.183054979633",
+    "currentlocation": "POINT (-1275.1917678903053 3244.6584232904074)",
+    "currentmode": "AtHome",
+    "participantid": "437"
+  },
+  {
+    "availablebalance": "5951.893214778535",
+    "currentlocation": "POINT (-1182.721609432994 2393.2950956797463)",
+    "currentmode": "AtHome",
+    "participantid": "438"
+  },
+  {
+    "availablebalance": "1094.4772303122368",
+    "currentlocation": "POINT (-1113.8044992533053 4386.3620784193545)",
+    "currentmode": "AtHome",
+    "participantid": "439"
+  },
+  {
+    "availablebalance": "4764.9446356450135",
+    "currentlocation": "POINT (-1694.5109709495587 5720.470348063601)",
+    "currentmode": "AtHome",
+    "participantid": "440"
+  },
+  {
+    "availablebalance": "1013.267251263585",
+    "currentlocation": "POINT (-505.6662810234582 3563.654020584828)",
+    "currentmode": "AtRecreation",
+    "participantid": "441"
+  },
+  {
+    "availablebalance": "5856.598153916009",
+    "currentlocation": "POINT (-2593.3384230544716 3047.3719991853977)",
+    "currentmode": "AtHome",
+    "participantid": "442"
+  },
+  {
+    "availablebalance": "654.5209464923785",
+    "currentlocation": "POINT (-1497.4400062756617 5082.110660401991)",
+    "currentmode": "AtHome",
+    "participantid": "443"
+  },
+  {
+    "availablebalance": "11576.856736744288",
+    "currentlocation": "POINT (-1747.9791595503464 5706.133863082172)",
+    "currentmode": "AtHome",
+    "participantid": "444"
+  },
+  {
+    "availablebalance": "6580.029686641761",
+    "currentlocation": "POINT (-1519.084505800655 3827.8862689936586)",
+    "currentmode": "AtRecreation",
+    "participantid": "445"
+  },
+  {
+    "availablebalance": "10830.274572384791",
+    "currentlocation": "POINT (-2619.2589823419485 6880.244418253359)",
+    "currentmode": "AtHome",
+    "participantid": "446"
+  },
+  {
+    "availablebalance": "4089.18577512906",
+    "currentlocation": "POINT (-1578.0077782280796 4740.0889829815005)",
+    "currentmode": "AtHome",
+    "participantid": "447"
+  },
+  {
+    "availablebalance": "5234.429683177341",
+    "currentlocation": "POINT (-1512.3894645041516 3827.471970029949)",
+    "currentmode": "AtRecreation",
+    "participantid": "448"
+  },
+  {
+    "availablebalance": "5002.522242601484",
+    "currentlocation": "POINT (-1623.972190714906 3670.0155780743544)",
+    "currentmode": "AtHome",
+    "participantid": "449"
+  },
+  {
+    "availablebalance": "3675.41912777237",
+    "currentlocation": "POINT (-2379.7211852778946 2525.5744597706093)",
+    "currentmode": "AtHome",
+    "participantid": "450"
+  },
+  {
+    "availablebalance": "4425.892373237874",
+    "currentlocation": "POINT (-1178.7526125714032 4466.470304755871)",
+    "currentmode": "AtHome",
+    "participantid": "451"
+  },
+  {
+    "availablebalance": "1616.9334129677277",
+    "currentlocation": "POINT (-225.9209866450221 3878.053697626113)",
+    "currentmode": "Transport",
+    "participantid": "452"
+  },
+  {
+    "availablebalance": "1608.2535798785043",
+    "currentlocation": "POINT (-1387.0900391253806 4635.40922836449)",
+    "currentmode": "AtHome",
+    "participantid": "453"
+  },
+  {
+    "availablebalance": "8227.013903437031",
+    "currentlocation": "POINT (-2627.7859520117345 6870.093825292776)",
+    "currentmode": "AtHome",
+    "participantid": "454"
+  },
+  {
+    "availablebalance": "4652.231043837608",
+    "currentlocation": "POINT (-2635.26439594369 6865.210791983957)",
+    "currentmode": "AtHome",
+    "participantid": "455"
+  },
+  {
+    "availablebalance": "1853.542533427123",
+    "currentlocation": "POINT (-2364.2709548364005 4911.939648385907)",
+    "currentmode": "AtHome",
+    "participantid": "456"
+  },
+  {
+    "availablebalance": "4367.282372482627",
+    "currentlocation": "POINT (-601.5124463220997 6287.129955138983)",
+    "currentmode": "AtHome",
+    "participantid": "457"
+  },
+  {
+    "availablebalance": "4477.002936236228",
+    "currentlocation": "POINT (-3310.1726540969053 7806.632835618296)",
+    "currentmode": "AtHome",
+    "participantid": "458"
+  },
+  {
+    "availablebalance": "6057.750950571802",
+    "currentlocation": "POINT (-1442.7043528192528 2478.479664916662)",
+    "currentmode": "AtHome",
+    "participantid": "459"
+  },
+  {
+    "availablebalance": "3059.036647608689",
+    "currentlocation": "POINT (-1688.5287353583062 3869.4631316838545)",
+    "currentmode": "AtRecreation",
+    "participantid": "460"
+  },
+  {
+    "availablebalance": "8832.683119371975",
+    "currentlocation": "POINT (-2371.4295865609197 5014.806149310582)",
+    "currentmode": "AtHome",
+    "participantid": "461"
+  },
+  {
+    "availablebalance": "549.8248892876574",
+    "currentlocation": "POINT (-1533.1810012935098 3820.5534540630542)",
+    "currentmode": "AtRecreation",
+    "participantid": "462"
+  },
+  {
+    "availablebalance": "5163.066718358606",
+    "currentlocation": "POINT (-1313.184260467868 3296.323323780418)",
+    "currentmode": "AtHome",
+    "participantid": "463"
+  },
+  {
+    "availablebalance": "5130.258249855517",
+    "currentlocation": "POINT (-1967.1149997734103 4806.034424227536)",
+    "currentmode": "AtHome",
+    "participantid": "464"
+  },
+  {
+    "availablebalance": "4505.381570896972",
+    "currentlocation": "POINT (-1985.3386161875228 4812.5315571684605)",
+    "currentmode": "AtHome",
+    "participantid": "465"
+  },
+  {
+    "availablebalance": "4590.261337971818",
+    "currentlocation": "POINT (-1838.89277414828 6219.876127156256)",
+    "currentmode": "AtHome",
+    "participantid": "466"
+  },
+  {
+    "availablebalance": "3096.563699582216",
+    "currentlocation": "POINT (-1225.0703854340638 3499.7348054553504)",
+    "currentmode": "AtHome",
+    "participantid": "467"
+  },
+  {
+    "availablebalance": "2977.897607840122",
+    "currentlocation": "POINT (-1191.055695601558 2563.5297893081547)",
+    "currentmode": "AtHome",
+    "participantid": "468"
+  },
+  {
+    "availablebalance": "6648.310357830366",
+    "currentlocation": "POINT (-1365.3963317673674 2609.930612964088)",
+    "currentmode": "AtHome",
+    "participantid": "469"
+  },
+  {
+    "availablebalance": "3539.376306510349",
+    "currentlocation": "POINT (-2478.734167487001 4557.8822574757005)",
+    "currentmode": "AtHome",
+    "participantid": "470"
+  },
+  {
+    "availablebalance": "11876.775010526097",
+    "currentlocation": "POINT (-2481.8591253950317 4545.831144028913)",
+    "currentmode": "AtHome",
+    "participantid": "471"
+  },
+  {
+    "availablebalance": "3475.18754349339",
+    "currentlocation": "POINT (-1527.5662095734574 3867.6965435034745)",
+    "currentmode": "AtHome",
+    "participantid": "472"
+  },
+  {
+    "availablebalance": "6104.175031033392",
+    "currentlocation": "POINT (-1212.8402112553742 3294.820076441664)",
+    "currentmode": "AtHome",
+    "participantid": "473"
+  },
+  {
+    "availablebalance": "11064.884218693483",
+    "currentlocation": "POINT (-2499.7979338284144 4563.012330981178)",
+    "currentmode": "AtHome",
+    "participantid": "474"
+  },
+  {
+    "availablebalance": "9768.767242380402",
+    "currentlocation": "POINT (-1818.7214465805187 6222.698415404001)",
+    "currentmode": "AtHome",
+    "participantid": "475"
+  },
+  {
+    "availablebalance": "4274.617530383548",
+    "currentlocation": "POINT (-3209.738139187618 6487.657688065099)",
+    "currentmode": "Transport",
+    "participantid": "476"
+  },
+  {
+    "availablebalance": "2940.623248663056",
+    "currentlocation": "POINT (-1300.4389151910277 2665.7464423448714)",
+    "currentmode": "AtHome",
+    "participantid": "477"
+  },
+  {
+    "availablebalance": "6746.267344841767",
+    "currentlocation": "POINT (-1310.861852736133 2692.6034016285234)",
+    "currentmode": "AtHome",
+    "participantid": "478"
+  },
+  {
+    "availablebalance": "1224.527325351162",
+    "currentlocation": "POINT (-1737.924812329188 3688.8359198536705)",
+    "currentmode": "AtHome",
+    "participantid": "479"
+  },
+  {
+    "availablebalance": "4770.860545299018",
+    "currentlocation": "POINT (-2407.044546962462 6202.412382551722)",
+    "currentmode": "AtHome",
+    "participantid": "480"
+  },
+  {
+    "availablebalance": "2158.750775653742",
+    "currentlocation": "POINT (-2468.148390759473 2592.982162798257)",
+    "currentmode": "AtHome",
+    "participantid": "481"
+  },
+  {
+    "availablebalance": "4803.17435351815",
+    "currentlocation": "POINT (-1854.0397394533752 6231.1861118124725)",
+    "currentmode": "AtHome",
+    "participantid": "482"
+  },
+  {
+    "availablebalance": "9704.315929453562",
+    "currentlocation": "POINT (-612.7630489446208 6233.28188482025)",
+    "currentmode": "AtHome",
+    "participantid": "483"
+  },
+  {
+    "availablebalance": "2236.8951222133137",
+    "currentlocation": "POINT (-1484.1905801153478 3873.7595190601205)",
+    "currentmode": "AtHome",
+    "participantid": "484"
+  },
+  {
+    "availablebalance": "2888.839332428398",
+    "currentlocation": "POINT (-2475.574738616793 6768.212324053232)",
+    "currentmode": "AtHome",
+    "participantid": "485"
+  },
+  {
+    "availablebalance": "3467.872846444502",
+    "currentlocation": "POINT (-2619.9753500924985 6214.1580056298635)",
+    "currentmode": "AtHome",
+    "participantid": "486"
+  },
+  {
+    "availablebalance": "5771.34442960879",
+    "currentlocation": "POINT (-1433.577707300243 2587.8384148863092)",
+    "currentmode": "AtHome",
+    "participantid": "487"
+  },
+  {
+    "availablebalance": "1250.8587544142108",
+    "currentlocation": "POINT (-1784.4648748247973 3740.397263143781)",
+    "currentmode": "AtHome",
+    "participantid": "488"
+  },
+  {
+    "availablebalance": "8713.069279516154",
+    "currentlocation": "POINT (-2637.5836078432044 6731.134035926762)",
+    "currentmode": "AtHome",
+    "participantid": "489"
+  },
+  {
+    "availablebalance": "5001.801159211601",
+    "currentlocation": "POINT (-505.3215885666847 6049.459155315078)",
+    "currentmode": "AtHome",
+    "participantid": "490"
+  },
+  {
+    "availablebalance": "5976.175052346744",
+    "currentlocation": "POINT (-2000.317889360325 4556.13330885273)",
+    "currentmode": "AtHome",
+    "participantid": "491"
+  },
+  {
+    "availablebalance": "5492.528577997065",
+    "currentlocation": "POINT (-2203.7950030510256 2828.724346546757)",
+    "currentmode": "AtHome",
+    "participantid": "492"
+  },
+  {
+    "availablebalance": "5244.821699084665",
+    "currentlocation": "POINT (-1989.63526350385 3368.764837974986)",
+    "currentmode": "Transport",
+    "participantid": "493"
+  },
+  {
+    "availablebalance": "4951.26980650881",
+    "currentlocation": "POINT (-1992.775625958413 4560.707213038688)",
+    "currentmode": "AtHome",
+    "participantid": "494"
+  },
+  {
+    "availablebalance": "2609.6585533650027",
+    "currentlocation": "POINT (-1295.1945501483049 3505.153319629454)",
+    "currentmode": "AtHome",
+    "participantid": "495"
+  },
+  {
+    "availablebalance": "4758.059388352629",
+    "currentlocation": "POINT (-1994.1685995005278 4557.090037026891)",
+    "currentmode": "AtHome",
+    "participantid": "496"
+  },
+  {
+    "availablebalance": "-13.477925861482996",
+    "currentlocation": "POINT (-834.2850744146468 5532.026673965752)",
+    "currentmode": "AtHome",
+    "participantid": "497"
+  },
+  {
+    "availablebalance": "2469.235128763344",
+    "currentlocation": "POINT (-1642.4460242662456 3842.5573971089852)",
+    "currentmode": "Transport",
+    "participantid": "498"
+  },
+  {
+    "availablebalance": "9681.048322526272",
+    "currentlocation": "POINT (-3761.2580878246877 6340.380830873932)",
+    "currentmode": "Transport",
+    "participantid": "499"
+  },
+  {
+    "availablebalance": "4268.811648434737",
+    "currentlocation": "POINT (-96.88218281710921 3495.6462568131997)",
+    "currentmode": "AtHome",
+    "participantid": "500"
+  },
+  {
+    "availablebalance": "2810.86167976727",
+    "currentlocation": "POINT (-1740.815735538838 3663.8274819687804)",
+    "currentmode": "AtHome",
+    "participantid": "501"
+  },
+  {
+    "availablebalance": "2518.662362506124",
+    "currentlocation": "POINT (-1935.3189486901285 3672.961545557016)",
+    "currentmode": "Transport",
+    "participantid": "502"
+  },
+  {
+    "availablebalance": "671.9860303912926",
+    "currentlocation": "POINT (-1608.4467532686513 3792.329605710588)",
+    "currentmode": "AtHome",
+    "participantid": "503"
+  },
+  {
+    "availablebalance": "3241.5864776146327",
+    "currentlocation": "POINT (-4441.123700435095 7062.412570344279)",
+    "currentmode": "AtHome",
+    "participantid": "504"
+  },
+  {
+    "availablebalance": "2464.3770072800344",
+    "currentlocation": "POINT (-1348.869767586235 5979.254576762876)",
+    "currentmode": "AtHome",
+    "participantid": "505"
+  },
+  {
+    "availablebalance": "8822.047281568279",
+    "currentlocation": "POINT (-2638.0240332388503 6888.773195452822)",
+    "currentmode": "AtHome",
+    "participantid": "506"
+  },
+  {
+    "availablebalance": "1491.1726841978962",
+    "currentlocation": "POINT (-4357.849771294017 7214.08067138873)",
+    "currentmode": "AtHome",
+    "participantid": "507"
+  },
+  {
+    "availablebalance": "1238.728071278733",
+    "currentlocation": "POINT (-1105.6539039822856 3719.078682907225)",
+    "currentmode": "AtHome",
+    "participantid": "508"
+  },
+  {
+    "availablebalance": "3374.6906671364627",
+    "currentlocation": "POINT (-4522.657091775664 5064.876854695869)",
+    "currentmode": "AtHome",
+    "participantid": "511"
+  },
+  {
+    "availablebalance": "2878.1322136601275",
+    "currentlocation": "POINT (-4230.049175257697 5080.401906209619)",
+    "currentmode": "AtHome",
+    "participantid": "513"
+  },
+  {
+    "availablebalance": "3359.4549521208123",
+    "currentlocation": "POINT (-1815.5755080958847 6209.144371499226)",
+    "currentmode": "AtHome",
+    "participantid": "515"
+  },
+  {
+    "availablebalance": "1861.2496512974665",
+    "currentlocation": "POINT (-2436.162881473775 6231.019216148948)",
+    "currentmode": "AtHome",
+    "participantid": "516"
+  },
+  {
+    "availablebalance": "2598.1405663111623",
+    "currentlocation": "POINT (-2509.797818991931 6818.162369026183)",
+    "currentmode": "AtHome",
+    "participantid": "517"
+  },
+  {
+    "availablebalance": "2523.9366264244804",
+    "currentlocation": "POINT (-2626.650558837545 6647.72544654815)",
+    "currentmode": "Transport",
+    "participantid": "518"
+  },
+  {
+    "availablebalance": "401.7322420422657",
+    "currentlocation": "POINT (-2978.836093696055 6116.321088330168)",
+    "currentmode": "AtHome",
+    "participantid": "519"
+  },
+  {
+    "availablebalance": "7004.139684729042",
+    "currentlocation": "POINT (-4269.247756972058 5060.722786459932)",
+    "currentmode": "AtHome",
+    "participantid": "520"
+  },
+  {
+    "availablebalance": "2553.0432056853247",
+    "currentlocation": "POINT (-1743.4527562736891 6280.741119659493)",
+    "currentmode": "AtHome",
+    "participantid": "521"
+  },
+  {
+    "availablebalance": "1730.2787597283625",
+    "currentlocation": "POINT (-3245.5300718420303 7821.789455282468)",
+    "currentmode": "AtHome",
+    "participantid": "522"
+  },
+  {
+    "availablebalance": "7478.993977329404",
+    "currentlocation": "POINT (-4558.402779521822 5061.016193730946)",
+    "currentmode": "AtHome",
+    "participantid": "524"
+  },
+  {
+    "availablebalance": "3465.9348351884782",
+    "currentlocation": "POINT (-4586.564778851952 4973.168822623007)",
+    "currentmode": "AtHome",
+    "participantid": "525"
+  },
+  {
+    "availablebalance": "2023.1155523272057",
+    "currentlocation": "POINT (-2986.870311860929 5982.1996176609155)",
+    "currentmode": "AtHome",
+    "participantid": "527"
+  },
+  {
+    "availablebalance": "3498.990567406781",
+    "currentlocation": "POINT (-4429.26166639244 4622.037001709063)",
+    "currentmode": "AtHome",
+    "participantid": "528"
+  },
+  {
+    "availablebalance": "7618.532986479067",
+    "currentlocation": "POINT (-2630.783016001132 6800.934447707431)",
+    "currentmode": "AtHome",
+    "participantid": "529"
+  },
+  {
+    "availablebalance": "1690.6997381255044",
+    "currentlocation": "POINT (-506.5525631515028 6194.309717698389)",
+    "currentmode": "AtHome",
+    "participantid": "530"
+  },
+  {
+    "availablebalance": "3021.8615362054056",
+    "currentlocation": "POINT (-4434.445745918704 4633.913400866676)",
+    "currentmode": "AtHome",
+    "participantid": "531"
+  },
+  {
+    "availablebalance": "7872.165847385153",
+    "currentlocation": "POINT (-3269.7412667590606 7770.115678891909)",
+    "currentmode": "AtHome",
+    "participantid": "532"
+  },
+  {
+    "availablebalance": "1612.228051189081",
+    "currentlocation": "POINT (-1658.825639724064 6184.085888451759)",
+    "currentmode": "AtHome",
+    "participantid": "533"
+  },
+  {
+    "availablebalance": "6839.170894395504",
+    "currentlocation": "POINT (-4083.819513614072 6495.298877014566)",
+    "currentmode": "AtHome",
+    "participantid": "534"
+  },
+  {
+    "availablebalance": "5595.672367892397",
+    "currentlocation": "POINT (-1636.010670564606 6188.969646246565)",
+    "currentmode": "AtHome",
+    "participantid": "535"
+  },
+  {
+    "availablebalance": "2693.0195295817784",
+    "currentlocation": "POINT (-4146.8642688663695 7353.2836728142065)",
+    "currentmode": "AtHome",
+    "participantid": "536"
+  },
+  {
+    "availablebalance": "1180.6214614266007",
+    "currentlocation": "POINT (-2283.941234392405 4933.928973330876)",
+    "currentmode": "AtHome",
+    "participantid": "537"
+  },
+  {
+    "availablebalance": "5530.16025574736",
+    "currentlocation": "POINT (-1613.7332956087453 6184.3620065370405)",
+    "currentmode": "AtHome",
+    "participantid": "538"
+  },
+  {
+    "availablebalance": "1256.361508727994",
+    "currentlocation": "POINT (-307.2958619307406 3604.4378614096395)",
+    "currentmode": "AtHome",
+    "participantid": "540"
+  },
+  {
+    "availablebalance": "7061.950836815476",
+    "currentlocation": "POINT (-4149.69504894554 7317.352813573793)",
+    "currentmode": "AtHome",
+    "participantid": "542"
+  },
+  {
+    "availablebalance": "1715.3995384448838",
+    "currentlocation": "POINT (-475.8177254300129 5261.416899715568)",
+    "currentmode": "AtHome",
+    "participantid": "543"
+  },
+  {
+    "availablebalance": "6139.342217517822",
+    "currentlocation": "POINT (-1731.4367799555325 6091.444606814137)",
+    "currentmode": "AtHome",
+    "participantid": "544"
+  },
+  {
+    "availablebalance": "1432.3459541472405",
+    "currentlocation": "POINT (-530.0358198183401 5193.878826953968)",
+    "currentmode": "AtHome",
+    "participantid": "545"
+  },
+  {
+    "availablebalance": "6355.52720629583",
+    "currentlocation": "POINT (-3215.926333333857 6481.045710373006)",
+    "currentmode": "AtRecreation",
+    "participantid": "546"
+  },
+  {
+    "availablebalance": "7061.921280896589",
+    "currentlocation": "POINT (-4136.416495700393 5281.823377293267)",
+    "currentmode": "AtHome",
+    "participantid": "547"
+  },
+  {
+    "availablebalance": "7032.027795595116",
+    "currentlocation": "POINT (-4585.756029931874 7148.008826345725)",
+    "currentmode": "AtHome",
+    "participantid": "548"
+  },
+  {
+    "availablebalance": "2965.855351748357",
+    "currentlocation": "POINT (-4580.76151036574 7147.815350510802)",
+    "currentmode": "AtHome",
+    "participantid": "549"
+  },
+  {
+    "availablebalance": "1272.9892553064788",
+    "currentlocation": "POINT (21.669890256648806 3464.6893415476097)",
+    "currentmode": "AtHome",
+    "participantid": "550"
+  },
+  {
+    "availablebalance": "7113.148822900726",
+    "currentlocation": "POINT (37.16776273943869 3469.2412770690626)",
+    "currentmode": "AtHome",
+    "participantid": "551"
+  },
+  {
+    "availablebalance": "9152.294160566187",
+    "currentlocation": "POINT (-4594.189827172081 7162.874955028137)",
+    "currentmode": "AtHome",
+    "participantid": "552"
+  },
+  {
+    "availablebalance": "1872.841853384584",
+    "currentlocation": "POINT (-46.656919104017646 5327.906567472792)",
+    "currentmode": "AtHome",
+    "participantid": "554"
+  },
+  {
+    "availablebalance": "1412.0704836548928",
+    "currentlocation": "POINT (28.13548089109984 5245.9527278661)",
+    "currentmode": "AtHome",
+    "participantid": "555"
+  },
+  {
+    "availablebalance": "1155.298509375876",
+    "currentlocation": "POINT (-497.9142581915998 5932.846782489951)",
+    "currentmode": "AtHome",
+    "participantid": "556"
+  },
+  {
+    "availablebalance": "2013.842485663951",
+    "currentlocation": "POINT (-1778.733786536574 5817.868586680911)",
+    "currentmode": "Transport",
+    "participantid": "557"
+  },
+  {
+    "availablebalance": "3240.034367433387",
+    "currentlocation": "POINT (-1280.5301878084938 3537.04015791116)",
+    "currentmode": "AtHome",
+    "participantid": "559"
+  },
+  {
+    "availablebalance": "3278.733743463053",
+    "currentlocation": "POINT (-4245.956547016307 7318.020226954494)",
+    "currentmode": "AtHome",
+    "participantid": "560"
+  },
+  {
+    "availablebalance": "2989.83733518417",
+    "currentlocation": "POINT (-3904.5505982214286 5968.881040111379)",
+    "currentmode": "AtRecreation",
+    "participantid": "561"
+  },
+  {
+    "availablebalance": "6188.430718236314",
+    "currentlocation": "POINT (-4584.755652123426 7255.346347655441)",
+    "currentmode": "AtHome",
+    "participantid": "562"
+  },
+  {
+    "availablebalance": "3767.23688156857",
+    "currentlocation": "POINT (-140.13417662899712 3594.783028779292)",
+    "currentmode": "AtHome",
+    "participantid": "563"
+  },
+  {
+    "availablebalance": "1281.173392014627",
+    "currentlocation": "POINT (-1744.0654673447502 3678.495623964854)",
+    "currentmode": "AtHome",
+    "participantid": "564"
+  },
+  {
+    "availablebalance": "2195.106658531025",
+    "currentlocation": "POINT (-3398.276295603299 6019.858355053496)",
+    "currentmode": "AtHome",
+    "participantid": "565"
+  },
+  {
+    "availablebalance": "1919.5564594781624",
+    "currentlocation": "POINT (-1646.861087081713 6096.975497646737)",
+    "currentmode": "AtHome",
+    "participantid": "566"
+  },
+  {
+    "availablebalance": "1698.0889401456045",
+    "currentlocation": "POINT (-1639.987168469182 6100.600084036814)",
+    "currentmode": "AtHome",
+    "participantid": "569"
+  },
+  {
+    "availablebalance": "4920.346333770249",
+    "currentlocation": "POINT (-495.32235550925844 5630.923968123473)",
+    "currentmode": "AtHome",
+    "participantid": "570"
+  },
+  {
+    "availablebalance": "1334.772959316772",
+    "currentlocation": "POINT (-509.2234418219893 5752.367188077313)",
+    "currentmode": "AtHome",
+    "participantid": "571"
+  },
+  {
+    "availablebalance": "2397.808509995109",
+    "currentlocation": "POINT (-2116.8621818692386 3664.7729068461044)",
+    "currentmode": "AtHome",
+    "participantid": "573"
+  },
+  {
+    "availablebalance": "4383.423014299748",
+    "currentlocation": "POINT (1415.693667885209 3334.23105911133)",
+    "currentmode": "AtHome",
+    "participantid": "576"
+  },
+  {
+    "availablebalance": "1196.1257454900465",
+    "currentlocation": "POINT (-3338.243918773334 6223.175158466308)",
+    "currentmode": "Transport",
+    "participantid": "578"
+  },
+  {
+    "availablebalance": "2811.697151161876",
+    "currentlocation": "POINT (-1608.45605877468 4914.969006718104)",
+    "currentmode": "AtHome",
+    "participantid": "579"
+  },
+  {
+    "availablebalance": "7326.250118256624",
+    "currentlocation": "POINT (-489.0138575823819 5657.990232815081)",
+    "currentmode": "AtHome",
+    "participantid": "581"
+  },
+  {
+    "availablebalance": "1485.530647545033",
+    "currentlocation": "POINT (-100.02353737703987 3576.9071575143835)",
+    "currentmode": "AtHome",
+    "participantid": "582"
+  },
+  {
+    "availablebalance": "6278.740766261386",
+    "currentlocation": "POINT (-366.862485902673 5278.582692455595)",
+    "currentmode": "AtHome",
+    "participantid": "583"
+  },
+  {
+    "availablebalance": "6032.787113227049",
+    "currentlocation": "POINT (-4427.173188686196 4709.640992518525)",
+    "currentmode": "AtHome",
+    "participantid": "584"
+  },
+  {
+    "availablebalance": "6169.721866123056",
+    "currentlocation": "POINT (-250.04852426638328 5028.331498360858)",
+    "currentmode": "AtRecreation",
+    "participantid": "585"
+  },
+  {
+    "availablebalance": "3539.23267047499",
+    "currentlocation": "POINT (-4124.438691699915 5663.721962555144)",
+    "currentmode": "AtHome",
+    "participantid": "586"
+  },
+  {
+    "availablebalance": "1666.4573537756185",
+    "currentlocation": "POINT (-390.92700288420605 5285.610542852541)",
+    "currentmode": "AtHome",
+    "participantid": "587"
+  },
+  {
+    "availablebalance": "1063.295656868719",
+    "currentlocation": "POINT (-218.62126367413234 3868.534097700347)",
+    "currentmode": "AtRecreation",
+    "participantid": "588"
+  },
+  {
+    "availablebalance": "1757.889082875787",
+    "currentlocation": "POINT (-1859.0686663501835 5779.598661124439)",
+    "currentmode": "AtHome",
+    "participantid": "590"
+  },
+  {
+    "availablebalance": "6452.214855308499",
+    "currentlocation": "POINT (-4336.655269771313 6593.426522625953)",
+    "currentmode": "AtHome",
+    "participantid": "591"
+  },
+  {
+    "availablebalance": "7974.943713355856",
+    "currentlocation": "POINT (-4142.12632014002 5675.5864106061545)",
+    "currentmode": "AtHome",
+    "participantid": "592"
+  },
+  {
+    "availablebalance": "1364.0197299935298",
+    "currentlocation": "POINT (-4128.045645961621 5674.338983626227)",
+    "currentmode": "AtHome",
+    "participantid": "593"
+  },
+  {
+    "availablebalance": "7451.841304675311",
+    "currentlocation": "POINT (-4124.192423540323 5649.194283054822)",
+    "currentmode": "AtHome",
+    "participantid": "594"
+  },
+  {
+    "availablebalance": "4755.759037113",
+    "currentlocation": "POINT (-986.817947566211 5800.428775243561)",
+    "currentmode": "Transport",
+    "participantid": "596"
+  },
+  {
+    "availablebalance": "2081.626296609016",
+    "currentlocation": "POINT (-1977.2139161653663 5787.6889677984045)",
+    "currentmode": "AtHome",
+    "participantid": "597"
+  },
+  {
+    "availablebalance": "2993.1784418711213",
+    "currentlocation": "POINT (-1594.11851142843 3889.8813749146916)",
+    "currentmode": "AtRecreation",
+    "participantid": "598"
+  },
+  {
+    "availablebalance": "2280.383301098716",
+    "currentlocation": "POINT (-2866.21544177197 6614.269570934608)",
+    "currentmode": "AtHome",
+    "participantid": "600"
+  },
+  {
+    "availablebalance": "1553.882286576633",
+    "currentlocation": "POINT (-1826.9485604325616 5804.561777536771)",
+    "currentmode": "AtHome",
+    "participantid": "601"
+  },
+  {
+    "availablebalance": "1853.9125226692383",
+    "currentlocation": "POINT (-1747.1848158780342 5761.221898211123)",
+    "currentmode": "AtHome",
+    "participantid": "606"
+  },
+  {
+    "availablebalance": "1423.2516820473263",
+    "currentlocation": "POINT (-2477.638889295322 5855.225845441872)",
+    "currentmode": "Transport",
+    "participantid": "607"
+  },
+  {
+    "availablebalance": "1306.4188986343945",
+    "currentlocation": "POINT (-2615.5388134891696 6623.487201562238)",
+    "currentmode": "AtHome",
+    "participantid": "608"
+  },
+  {
+    "availablebalance": "6221.564025934934",
+    "currentlocation": "POINT (-1609.8151428460656 3661.483687587483)",
+    "currentmode": "AtHome",
+    "participantid": "609"
+  },
+  {
+    "availablebalance": "6898.335074732711",
+    "currentlocation": "POINT (-167.92909522426285 5267.910967169662)",
+    "currentmode": "AtHome",
+    "participantid": "610"
+  },
+  {
+    "availablebalance": "6105.689014476436",
+    "currentlocation": "POINT (-1625.3699500482817 3623.739971111275)",
+    "currentmode": "AtHome",
+    "participantid": "612"
+  },
+  {
+    "availablebalance": "1380.8864707134098",
+    "currentlocation": "POINT (-870.7563568970724 5575.685938302714)",
+    "currentmode": "Transport",
+    "participantid": "613"
+  },
+  {
+    "availablebalance": "2427.20606587566",
+    "currentlocation": "POINT (-1406.7676836208832 2518.944736137566)",
+    "currentmode": "AtHome",
+    "participantid": "614"
+  },
+  {
+    "availablebalance": "1201.347344012873",
+    "currentlocation": "POINT (-4624.193055070082 4701.081892642431)",
+    "currentmode": "AtHome",
+    "participantid": "616"
+  },
+  {
+    "availablebalance": "2366.051332508669",
+    "currentlocation": "POINT (-3543.1738793540267 7170.791833510142)",
+    "currentmode": "AtHome",
+    "participantid": "618"
+  },
+  {
+    "availablebalance": "2919.909162032725",
+    "currentlocation": "POINT (-3570.9679069221897 7170.979313997589)",
+    "currentmode": "AtHome",
+    "participantid": "619"
+  },
+  {
+    "availablebalance": "1502.6874135678347",
+    "currentlocation": "POINT (-9.229718009304452 3464.432334868954)",
+    "currentmode": "AtHome",
+    "participantid": "620"
+  },
+  {
+    "availablebalance": "3454.5803500633874",
+    "currentlocation": "POINT (626.5021538466519 4478.576143046458)",
+    "currentmode": "Transport",
+    "participantid": "622"
+  },
+  {
+    "availablebalance": "1709.7641197592338",
+    "currentlocation": "POINT (-3809.680591062471 6356.633184239277)",
+    "currentmode": "AtRecreation",
+    "participantid": "623"
+  },
+  {
+    "availablebalance": "3969.0360006634255",
+    "currentlocation": "POINT (-624.275649276885 4074.5960623245123)",
+    "currentmode": "AtHome",
+    "participantid": "624"
+  },
+  {
+    "availablebalance": "1506.9263384636772",
+    "currentlocation": "POINT (-3860.982432547328 7224.808504582566)",
+    "currentmode": "AtHome",
+    "participantid": "625"
+  },
+  {
+    "availablebalance": "3828.472330961481",
+    "currentlocation": "POINT (-251.05158877216834 4432.092074326923)",
+    "currentmode": "AtHome",
+    "participantid": "626"
+  },
+  {
+    "availablebalance": "5841.008730352014",
+    "currentlocation": "POINT (-3869.350021545542 7289.065755122173)",
+    "currentmode": "AtHome",
+    "participantid": "627"
+  },
+  {
+    "availablebalance": "4599.601912133833",
+    "currentlocation": "POINT (-498.35559255228156 3565.123970038263)",
+    "currentmode": "AtRecreation",
+    "participantid": "630"
+  },
+  {
+    "availablebalance": "2115.1098686583064",
+    "currentlocation": "POINT (-3871.5950229040745 7253.252048915076)",
+    "currentmode": "AtHome",
+    "participantid": "631"
+  },
+  {
+    "availablebalance": "5407.122703176241",
+    "currentlocation": "POINT (-3922.3192055363775 7273.23458390468)",
+    "currentmode": "AtHome",
+    "participantid": "632"
+  },
+  {
+    "availablebalance": "7316.883704371398",
+    "currentlocation": "POINT (-2075.731181053991 3651.4496457657992)",
+    "currentmode": "AtHome",
+    "participantid": "633"
+  },
+  {
+    "availablebalance": "6179.59355435688",
+    "currentlocation": "POINT (-703.0965569865255 6326.251441767978)",
+    "currentmode": "AtHome",
+    "participantid": "635"
+  },
+  {
+    "availablebalance": "2967.130109472791",
+    "currentlocation": "POINT (-2278.2062561994644 3050.7139245482304)",
+    "currentmode": "AtHome",
+    "participantid": "636"
+  },
+  {
+    "availablebalance": "5146.01805561568",
+    "currentlocation": "POINT (-501.42676062779447 3551.572638649489)",
+    "currentmode": "Transport",
+    "participantid": "637"
+  },
+  {
+    "availablebalance": "2941.9735417210773",
+    "currentlocation": "POINT (461.88922506853726 2227.657308829264)",
+    "currentmode": "AtHome",
+    "participantid": "638"
+  },
+  {
+    "availablebalance": "4023.567596651546",
+    "currentlocation": "POINT (-576.3353246740293 4878.177593755779)",
+    "currentmode": "AtHome",
+    "participantid": "640"
+  },
+  {
+    "availablebalance": "2939.7731961003083",
+    "currentlocation": "POINT (117.97788957121428 499.5218858411952)",
+    "currentmode": "AtHome",
+    "participantid": "642"
+  },
+  {
+    "availablebalance": "2641.101520265974",
+    "currentlocation": "POINT (109.56866048526177 498.9941002913007)",
+    "currentmode": "AtHome",
+    "participantid": "644"
+  },
+  {
+    "availablebalance": "8097.820079188634",
+    "currentlocation": "POINT (489.19366279893705 2274.4476149298566)",
+    "currentmode": "AtHome",
+    "participantid": "645"
+  },
+  {
+    "availablebalance": "3930.443903478495",
+    "currentlocation": "POINT (-3355.2874081961263 5228.710052429309)",
+    "currentmode": "AtHome",
+    "participantid": "646"
+  },
+  {
+    "availablebalance": "4911.508711415592",
+    "currentlocation": "POINT (-1544.402652799368 5597.814717266389)",
+    "currentmode": "AtHome",
+    "participantid": "648"
+  },
+  {
+    "availablebalance": "2544.158409627772",
+    "currentlocation": "POINT (-4603.5541335377675 7615.90258476738)",
+    "currentmode": "AtHome",
+    "participantid": "649"
+  },
+  {
+    "availablebalance": "4610.092730801248",
+    "currentlocation": "POINT (-3137.923070537894 6295.521953440466)",
+    "currentmode": "AtHome",
+    "participantid": "650"
+  },
+  {
+    "availablebalance": "2817.9711515383137",
+    "currentlocation": "POINT (-1624.3900041035336 1044.057038017657)",
+    "currentmode": "AtHome",
+    "participantid": "651"
+  },
+  {
+    "availablebalance": "2338.3853809440134",
+    "currentlocation": "POINT (-2165.2222048762196 4800.267171794048)",
+    "currentmode": "AtHome",
+    "participantid": "652"
+  },
+  {
+    "availablebalance": "2601.2482025167565",
+    "currentlocation": "POINT (258.49267537955234 4799.8575256145605)",
+    "currentmode": "AtHome",
+    "participantid": "654"
+  },
+  {
+    "availablebalance": "5293.844000947882",
+    "currentlocation": "POINT (-1628.0823810173774 988.5295495794128)",
+    "currentmode": "AtHome",
+    "participantid": "656"
+  },
+  {
+    "availablebalance": "3943.2052290579927",
+    "currentlocation": "POINT (-100.81570932262191 3799.2594196304344)",
+    "currentmode": "AtHome",
+    "participantid": "659"
+  },
+  {
+    "availablebalance": "4503.296796205121",
+    "currentlocation": "POINT (-573.673158247096 6375.153936726497)",
+    "currentmode": "AtHome",
+    "participantid": "660"
+  },
+  {
+    "availablebalance": "2359.0610551508403",
+    "currentlocation": "POINT (-1989.2355591009136 3092.742878158136)",
+    "currentmode": "AtHome",
+    "participantid": "661"
+  },
+  {
+    "availablebalance": "7252.06716484678",
+    "currentlocation": "POINT (-4574.588058437561 7362.077057098975)",
+    "currentmode": "AtHome",
+    "participantid": "662"
+  },
+  {
+    "availablebalance": "2501.2437221802447",
+    "currentlocation": "POINT (-4591.633207720222 7521.247043630944)",
+    "currentmode": "AtHome",
+    "participantid": "664"
+  },
+  {
+    "availablebalance": "2411.750502200019",
+    "currentlocation": "POINT (-4411.485074700296 4851.5306770239795)",
+    "currentmode": "AtHome",
+    "participantid": "665"
+  },
+  {
+    "availablebalance": "5495.066055389593",
+    "currentlocation": "POINT (-1360.6783257380766 2559.16323147236)",
+    "currentmode": "AtHome",
+    "participantid": "666"
+  },
+  {
+    "availablebalance": "2226.489819269792",
+    "currentlocation": "POINT (-1289.1504103862505 2570.634755374985)",
+    "currentmode": "AtHome",
+    "participantid": "667"
+  },
+  {
+    "availablebalance": "2377.5089475396103",
+    "currentlocation": "POINT (-1349.3596776839165 2567.781419621334)",
+    "currentmode": "AtHome",
+    "participantid": "669"
+  },
+  {
+    "availablebalance": "2356.7040790387377",
+    "currentlocation": "POINT (-3602.0731182374357 7364.194846632647)",
+    "currentmode": "AtHome",
+    "participantid": "671"
+  },
+  {
+    "availablebalance": "5829.700924597159",
+    "currentlocation": "POINT (-3916.885762284094 5959.097750946191)",
+    "currentmode": "AtRecreation",
+    "participantid": "672"
+  },
+  {
+    "availablebalance": "2968.262737447135",
+    "currentlocation": "POINT (-4485.292328991071 7387.356672677515)",
+    "currentmode": "Transport",
+    "participantid": "673"
+  },
+  {
+    "availablebalance": "2230.647333878331",
+    "currentlocation": "POINT (-560.1527404518916 5243.697585329711)",
+    "currentmode": "AtHome",
+    "participantid": "674"
+  },
+  {
+    "availablebalance": "1615.7902952716004",
+    "currentlocation": "POINT (-486.8098326528145 3554.8307586222463)",
+    "currentmode": "AtRecreation",
+    "participantid": "675"
+  },
+  {
+    "availablebalance": "4009.128357057097",
+    "currentlocation": "POINT (-4568.471573676515 7124.321407603188)",
+    "currentmode": "AtHome",
+    "participantid": "676"
+  },
+  {
+    "availablebalance": "3977.861848140564",
+    "currentlocation": "POINT (-4595.432949602926 7155.395160505548)",
+    "currentmode": "AtHome",
+    "participantid": "677"
+  },
+  {
+    "availablebalance": "2352.2549226003107",
+    "currentlocation": "POINT (-3661.7175644164367 5647.7803038575175)",
+    "currentmode": "AtHome",
+    "participantid": "678"
+  },
+  {
+    "availablebalance": "2913.1445859909604",
+    "currentlocation": "POINT (-3057.686446855868 6040.677179188843)",
+    "currentmode": "AtHome",
+    "participantid": "679"
+  },
+  {
+    "availablebalance": "1852.138806278605",
+    "currentlocation": "POINT (-4576.842600777946 7235.9920524275)",
+    "currentmode": "AtHome",
+    "participantid": "680"
+  },
+  {
+    "availablebalance": "1088.0991470130514",
+    "currentlocation": "POINT (-631.1264069717149 5183.043067045653)",
+    "currentmode": "AtHome",
+    "participantid": "681"
+  },
+  {
+    "availablebalance": "1733.2778767308796",
+    "currentlocation": "POINT (-633.2420264016363 5244.171003127429)",
+    "currentmode": "AtHome",
+    "participantid": "682"
+  },
+  {
+    "availablebalance": "8737.284159678384",
+    "currentlocation": "POINT (-4579.353296529987 7249.023730160305)",
+    "currentmode": "AtHome",
+    "participantid": "683"
+  },
+  {
+    "availablebalance": "7073.278687320507",
+    "currentlocation": "POINT (25.14705315156719 5226.253681137051)",
+    "currentmode": "AtHome",
+    "participantid": "684"
+  },
+  {
+    "availablebalance": "5611.98257036723",
+    "currentlocation": "POINT (11.640180370107526 5229.4637979914505)",
+    "currentmode": "AtHome",
+    "participantid": "685"
+  },
+  {
+    "availablebalance": "4008.809115776464",
+    "currentlocation": "POINT (-1621.5756701673438 3876.1650629991814)",
+    "currentmode": "AtRecreation",
+    "participantid": "686"
+  },
+  {
+    "availablebalance": "1291.0047993728476",
+    "currentlocation": "POINT (-2987.881704085313 6388.854571949256)",
+    "currentmode": "AtHome",
+    "participantid": "687"
+  },
+  {
+    "availablebalance": "1640.4949635309308",
+    "currentlocation": "POINT (-378.51736739121276 5271.07121092306)",
+    "currentmode": "AtHome",
+    "participantid": "688"
+  },
+  {
+    "availablebalance": "5469.11630695898",
+    "currentlocation": "POINT (-382.27844858526595 5252.606013598034)",
+    "currentmode": "AtHome",
+    "participantid": "689"
+  },
+  {
+    "availablebalance": "1262.2600617302376",
+    "currentlocation": "POINT (-3399.3229117910487 4826.167793855674)",
+    "currentmode": "AtHome",
+    "participantid": "690"
+  },
+  {
+    "availablebalance": "6488.442556508982",
+    "currentlocation": "POINT (-3381.8055038520106 4815.506122050947)",
+    "currentmode": "AtHome",
+    "participantid": "691"
+  },
+  {
+    "availablebalance": "6657.565995901456",
+    "currentlocation": "POINT (354.72148868970515 5036.215574161836)",
+    "currentmode": "AtHome",
+    "participantid": "692"
+  },
+  {
+    "availablebalance": "2559.6872053059296",
+    "currentlocation": "POINT (358.35270133922876 5055.26014712158)",
+    "currentmode": "AtHome",
+    "participantid": "693"
+  },
+  {
+    "availablebalance": "2485.2439589035384",
+    "currentlocation": "POINT (-2641.539207886509 6610.1876841872845)",
+    "currentmode": "AtHome",
+    "participantid": "694"
+  },
+  {
+    "availablebalance": "5956.618668006094",
+    "currentlocation": "POINT (-2649.3445007286064 6609.726396120516)",
+    "currentmode": "AtHome",
+    "participantid": "695"
+  },
+  {
+    "availablebalance": "4593.374433687104",
+    "currentlocation": "POINT (-219.1671197003837 5239.299403712798)",
+    "currentmode": "AtHome",
+    "participantid": "696"
+  },
+  {
+    "availablebalance": "1370.271894857877",
+    "currentlocation": "POINT (-270.99951872606096 5024.513726615436)",
+    "currentmode": "AtRecreation",
+    "participantid": "697"
+  },
+  {
+    "availablebalance": "6531.83992674662",
+    "currentlocation": "POINT (-2602.9421497482713 6588.683436306359)",
+    "currentmode": "AtHome",
+    "participantid": "698"
+  },
+  {
+    "availablebalance": "4630.414313022494",
+    "currentlocation": "POINT (-2609.8899384101264 6585.511459693846)",
+    "currentmode": "AtHome",
+    "participantid": "699"
+  },
+  {
+    "availablebalance": "1508.6674751160026",
+    "currentlocation": "POINT (-2961.56041080373 6394.686070888651)",
+    "currentmode": "AtHome",
+    "participantid": "700"
+  },
+  {
+    "availablebalance": "2244.275578248936",
+    "currentlocation": "POINT (-258.0974094923152 5017.140495748895)",
+    "currentmode": "AtRecreation",
+    "participantid": "701"
+  },
+  {
+    "availablebalance": "7531.061249406696",
+    "currentlocation": "POINT (-2603.385959597968 6600.858147113771)",
+    "currentmode": "AtHome",
+    "participantid": "702"
+  },
+  {
+    "availablebalance": "2008.0808532459428",
+    "currentlocation": "POINT (-198.11390298298616 5328.782246565214)",
+    "currentmode": "AtHome",
+    "participantid": "703"
+  },
+  {
+    "availablebalance": "1139.3674755428876",
+    "currentlocation": "POINT (-657.4287670201119 6011.140326051992)",
+    "currentmode": "AtHome",
+    "participantid": "704"
+  },
+  {
+    "availablebalance": "1087.362043432449",
+    "currentlocation": "POINT (-1608.4337219627039 3879.064895182411)",
+    "currentmode": "AtRecreation",
+    "participantid": "705"
+  },
+  {
+    "availablebalance": "2273.984766588764",
+    "currentlocation": "POINT (-2113.578241717062 5794.9011230812785)",
+    "currentmode": "AtHome",
+    "participantid": "706"
+  },
+  {
+    "availablebalance": "4894.384320721369",
+    "currentlocation": "POINT (-2604.2263565865273 6579.042456461137)",
+    "currentmode": "AtHome",
+    "participantid": "707"
+  },
+  {
+    "availablebalance": "2060.399426882571",
+    "currentlocation": "POINT (-3618.5752135830785 5701.970720981041)",
+    "currentmode": "AtHome",
+    "participantid": "708"
+  },
+  {
+    "availablebalance": "3577.683735216534",
+    "currentlocation": "POINT (-3280.633214236889 7634.202670059913)",
+    "currentmode": "AtHome",
+    "participantid": "709"
+  },
+  {
+    "availablebalance": "6607.272345050646",
+    "currentlocation": "POINT (-3327.5096498895246 7637.441387708559)",
+    "currentmode": "AtHome",
+    "participantid": "710"
+  },
+  {
+    "availablebalance": "6198.956725417116",
+    "currentlocation": "POINT (-681.2596392996671 6023.524357173201)",
+    "currentmode": "AtHome",
+    "participantid": "711"
+  },
+  {
+    "availablebalance": "4249.892889238067",
+    "currentlocation": "POINT (-674.9344716300386 6019.406727515781)",
+    "currentmode": "AtHome",
+    "participantid": "712"
+  },
+  {
+    "availablebalance": "7418.190130520368",
+    "currentlocation": "POINT (-662.1165247202181 6037.240811994108)",
+    "currentmode": "AtHome",
+    "participantid": "713"
+  },
+  {
+    "availablebalance": "4724.032025376357",
+    "currentlocation": "POINT (-1176.8013302032396 5846.6471242364805)",
+    "currentmode": "Transport",
+    "participantid": "714"
+  },
+  {
+    "availablebalance": "6281.019537407064",
+    "currentlocation": "POINT (-179.65235022565383 5343.118902409721)",
+    "currentmode": "AtHome",
+    "participantid": "715"
+  },
+  {
+    "availablebalance": "6937.260193543344",
+    "currentlocation": "POINT (-744.0119196297343 5533.855381228612)",
+    "currentmode": "AtHome",
+    "participantid": "716"
+  },
+  {
+    "availablebalance": "4394.273804661766",
+    "currentlocation": "POINT (-673.993358110065 6036.860938124659)",
+    "currentmode": "AtHome",
+    "participantid": "717"
+  },
+  {
+    "availablebalance": "5621.060672355912",
+    "currentlocation": "POINT (-452.7197687905406 5765.433597201812)",
+    "currentmode": "AtHome",
+    "participantid": "718"
+  },
+  {
+    "availablebalance": "922.0212035058946",
+    "currentlocation": "POINT (-3374.8893316173194 5182.102545381883)",
+    "currentmode": "AtHome",
+    "participantid": "719"
+  },
+  {
+    "availablebalance": "1895.4056251926283",
+    "currentlocation": "POINT (-1215.1838672982808 3634.241016689522)",
+    "currentmode": "AtHome",
+    "participantid": "720"
+  },
+  {
+    "availablebalance": "7018.735314668434",
+    "currentlocation": "POINT (-466.27784170199845 5764.934341802078)",
+    "currentmode": "AtHome",
+    "participantid": "721"
+  },
+  {
+    "availablebalance": "1540.630938553635",
+    "currentlocation": "POINT (-1473.6876234174335 5980.677979507759)",
+    "currentmode": "AtHome",
+    "participantid": "722"
+  },
+  {
+    "availablebalance": "4418.358987661215",
+    "currentlocation": "POINT (-471.31460839871494 5770.685051006932)",
+    "currentmode": "AtHome",
+    "participantid": "723"
+  },
+  {
+    "availablebalance": "2359.227314742774",
+    "currentlocation": "POINT (-4584.690952728261 4730.935576222884)",
+    "currentmode": "AtHome",
+    "participantid": "724"
+  },
+  {
+    "availablebalance": "1710.6223448348967",
+    "currentlocation": "POINT (-2129.5003473512925 5799.5356852902205)",
+    "currentmode": "AtHome",
+    "participantid": "725"
+  },
+  {
+    "availablebalance": "2136.051693833995",
+    "currentlocation": "POINT (-2599.680449738292 5859.894868731234)",
+    "currentmode": "Transport",
+    "participantid": "726"
+  },
+  {
+    "availablebalance": "4378.876181944261",
+    "currentlocation": "POINT (-3558.421444297347 5809.019183383372)",
+    "currentmode": "Transport",
+    "participantid": "727"
+  },
+  {
+    "availablebalance": "2333.1330830564584",
+    "currentlocation": "POINT (-4575.351437489866 7601.6297381199865)",
+    "currentmode": "AtHome",
+    "participantid": "728"
+  },
+  {
+    "availablebalance": "1845.795090014962",
+    "currentlocation": "POINT (-3782.5998189464003 6379.473647452343)",
+    "currentmode": "AtRecreation",
+    "participantid": "729"
+  },
+  {
+    "availablebalance": "836.450844369877",
+    "currentlocation": "POINT (-1111.6681871148942 3811.427686026674)",
+    "currentmode": "AtHome",
+    "participantid": "730"
+  },
+  {
+    "availablebalance": "5409.247456061004",
+    "currentlocation": "POINT (-3670.8704195274504 4800.67362049307)",
+    "currentmode": "AtHome",
+    "participantid": "731"
+  },
+  {
+    "availablebalance": "7698.740797413155",
+    "currentlocation": "POINT (-4593.885964345719 7410.589215756412)",
+    "currentmode": "AtHome",
+    "participantid": "732"
+  },
+  {
+    "availablebalance": "2401.5608487878403",
+    "currentlocation": "POINT (-4584.240032205744 7465.838494323158)",
+    "currentmode": "AtHome",
+    "participantid": "733"
+  },
+  {
+    "availablebalance": "5021.786495488394",
+    "currentlocation": "POINT (-2067.5876958648605 5858.6920376175785)",
+    "currentmode": "AtHome",
+    "participantid": "734"
+  },
+  {
+    "availablebalance": "2958.335658881763",
+    "currentlocation": "POINT (-4369.085396042212 4836.885105173833)",
+    "currentmode": "AtHome",
+    "participantid": "735"
+  },
+  {
+    "availablebalance": "3294.136647094511",
+    "currentlocation": "POINT (-4442.101274676921 5127.662279902912)",
+    "currentmode": "AtHome",
+    "participantid": "736"
+  },
+  {
+    "availablebalance": "3349.255148083148",
+    "currentlocation": "POINT (-887.1720285777634 4641.882721556699)",
+    "currentmode": "Transport",
+    "participantid": "737"
+  },
+  {
+    "availablebalance": "2350.540513645701",
+    "currentlocation": "POINT (-3672.5742798603255 4826.3623929577825)",
+    "currentmode": "AtHome",
+    "participantid": "738"
+  },
+  {
+    "availablebalance": "2190.1733945433843",
+    "currentlocation": "POINT (-1587.3994039338113 5801.392297920495)",
+    "currentmode": "Transport",
+    "participantid": "739"
+  },
+  {
+    "availablebalance": "1646.9371879017426",
+    "currentlocation": "POINT (-1477.753917514858 5982.032801722768)",
+    "currentmode": "AtHome",
+    "participantid": "740"
+  },
+  {
+    "availablebalance": "3905.823201397453",
+    "currentlocation": "POINT (-776.4882516001887 5367.657544470866)",
+    "currentmode": "AtHome",
+    "participantid": "741"
+  },
+  {
+    "availablebalance": "3649.7033275423873",
+    "currentlocation": "POINT (-3901.1832654699883 5971.558069318794)",
+    "currentmode": "AtRecreation",
+    "participantid": "742"
+  },
+  {
+    "availablebalance": "6147.448886536111",
+    "currentlocation": "POINT (-4506.908302142971 5130.2781800456805)",
+    "currentmode": "AtHome",
+    "participantid": "743"
+  },
+  {
+    "availablebalance": "1538.3691315795586",
+    "currentlocation": "POINT (-1540.6939232142856 5911.2043933891255)",
+    "currentmode": "AtHome",
+    "participantid": "744"
+  },
+  {
+    "availablebalance": "3279.8034527536493",
+    "currentlocation": "POINT (-4493.87517195987 7603.890328314192)",
+    "currentmode": "AtHome",
+    "participantid": "745"
+  },
+  {
+    "availablebalance": "1627.103632253103",
+    "currentlocation": "POINT (-1290.6403152347996 5952.997070126488)",
+    "currentmode": "AtHome",
+    "participantid": "746"
+  },
+  {
+    "availablebalance": "3531.306643365055",
+    "currentlocation": "POINT (-4313.3996057027 7621.616990910409)",
+    "currentmode": "AtHome",
+    "participantid": "747"
+  },
+  {
+    "availablebalance": "5643.328555678892",
+    "currentlocation": "POINT (-3002.803352452276 6287.865190925958)",
+    "currentmode": "AtHome",
+    "participantid": "748"
+  },
+  {
+    "availablebalance": "4660.924552165328",
+    "currentlocation": "POINT (-2994.5135106816715 6294.727128733409)",
+    "currentmode": "AtHome",
+    "participantid": "749"
+  },
+  {
+    "availablebalance": "7278.305302936697",
+    "currentlocation": "POINT (-2984.3001923744905 6315.4332193053915)",
+    "currentmode": "AtHome",
+    "participantid": "750"
+  },
+  {
+    "availablebalance": "3918.283609970431",
+    "currentlocation": "POINT (-784.5925301254847 3710.2514636362052)",
+    "currentmode": "AtHome",
+    "participantid": "751"
+  },
+  {
+    "availablebalance": "7254.788960668906",
+    "currentlocation": "POINT (-366.55809583002826 3615.0051426516643)",
+    "currentmode": "AtHome",
+    "participantid": "752"
+  },
+  {
+    "availablebalance": "4635.1037390250585",
+    "currentlocation": "POINT (-1380.8368470962089 5979.519134795733)",
+    "currentmode": "AtHome",
+    "participantid": "753"
+  },
+  {
+    "availablebalance": "7608.593284565674",
+    "currentlocation": "POINT (-2993.414801039495 6291.775052685507)",
+    "currentmode": "AtHome",
+    "participantid": "754"
+  },
+  {
+    "availablebalance": "1707.382242894795",
+    "currentlocation": "POINT (-2992.7529370465554 6043.937811718378)",
+    "currentmode": "AtHome",
+    "participantid": "755"
+  },
+  {
+    "availablebalance": "2409.6302390803",
+    "currentlocation": "POINT (-3585.2696697579313 7310.321937701542)",
+    "currentmode": "AtHome",
+    "participantid": "758"
+  },
+  {
+    "availablebalance": "1731.689065850309",
+    "currentlocation": "POINT (-3984.8727493916085 6566.67795061826)",
+    "currentmode": "AtHome",
+    "participantid": "759"
+  },
+  {
+    "availablebalance": "5793.646449273893",
+    "currentlocation": "POINT (-4329.64969008691 5070.548374610194)",
+    "currentmode": "AtHome",
+    "participantid": "763"
+  },
+  {
+    "availablebalance": "1844.760731171648",
+    "currentlocation": "POINT (952.6721102474256 2479.660661275157)",
+    "currentmode": "AtHome",
+    "participantid": "764"
+  },
+  {
+    "availablebalance": "3893.619578616541",
+    "currentlocation": "POINT (-3933.1271666772773 5667.194756375772)",
+    "currentmode": "AtHome",
+    "participantid": "765"
+  },
+  {
+    "availablebalance": "1455.2596405971808",
+    "currentlocation": "POINT (-4317.371034781835 5055.166850157187)",
+    "currentmode": "AtHome",
+    "participantid": "766"
+  },
+  {
+    "availablebalance": "1574.3285245351874",
+    "currentlocation": "POINT (-1926.7069969067843 797.610023697387)",
+    "currentmode": "AtHome",
+    "participantid": "767"
+  },
+  {
+    "availablebalance": "6950.034384789861",
+    "currentlocation": "POINT (1459.302104715404 3411.342454350615)",
+    "currentmode": "AtHome",
+    "participantid": "769"
+  },
+  {
+    "availablebalance": "3349.822898697937",
+    "currentlocation": "POINT (-4041.233248773596 6552.190399396847)",
+    "currentmode": "AtHome",
+    "participantid": "770"
+  },
+  {
+    "availablebalance": "3428.312793283912",
+    "currentlocation": "POINT (-4425.640030585615 4645.90369996585)",
+    "currentmode": "AtHome",
+    "participantid": "772"
+  },
+  {
+    "availablebalance": "1585.228098829152",
+    "currentlocation": "POINT (-3998.823088302957 6545.91170170113)",
+    "currentmode": "AtHome",
+    "participantid": "775"
+  },
+  {
+    "availablebalance": "3427.8104544843213",
+    "currentlocation": "POINT (-1203.725149070991 3310.658116727257)",
+    "currentmode": "AtHome",
+    "participantid": "776"
+  },
+  {
+    "availablebalance": "1884.395727739403",
+    "currentlocation": "POINT (-1208.9472386322848 3942.302893575663)",
+    "currentmode": "AtHome",
+    "participantid": "777"
+  },
+  {
+    "availablebalance": "1037.4307402306504",
+    "currentlocation": "POINT (-1825.0259033780803 5822.75013071491)",
+    "currentmode": "Transport",
+    "participantid": "778"
+  },
+  {
+    "availablebalance": "1603.9927353370538",
+    "currentlocation": "POINT (1554.6073197894364 3246.836464596033)",
+    "currentmode": "AtHome",
+    "participantid": "779"
+  },
+  {
+    "availablebalance": "9081.529840248855",
+    "currentlocation": "POINT (-1526.9372331431534 5582.2951345645315)",
+    "currentmode": "AtHome",
+    "participantid": "1"
+  },
+  {
+    "availablebalance": "8957.677681714427",
+    "currentlocation": "POINT (648.3090753536089 2402.9578493844297)",
+    "currentmode": "Transport",
+    "participantid": "2"
+  },
+  {
+    "availablebalance": "8459.313581392924",
+    "currentlocation": "POINT (-1558.517200825967 5600.664347152427)",
+    "currentmode": "AtHome",
+    "participantid": "3"
+  },
+  {
+    "availablebalance": "8252.797733709873",
+    "currentlocation": "POINT (1488.8432645870707 3503.579947354824)",
+    "currentmode": "AtHome",
+    "participantid": "4"
+  },
+  {
+    "availablebalance": "1625.2953426997883",
+    "currentlocation": "POINT (-1525.6957374012197 1994.5285187115571)",
+    "currentmode": "AtHome",
+    "participantid": "5"
+  },
+  {
+    "availablebalance": "1212.6851133516368",
+    "currentlocation": "POINT (1055.3626965504977 3659.1311457048146)",
+    "currentmode": "Transport",
+    "participantid": "6"
+  },
+  {
+    "availablebalance": "5543.183477661307",
+    "currentlocation": "POINT (-1023.8165705255449 1578.3713681439597)",
+    "currentmode": "AtHome",
+    "participantid": "7"
+  },
+  {
+    "availablebalance": "2555.060832500837",
+    "currentlocation": "POINT (616.2956028633527 2274.8909931311796)",
+    "currentmode": "AtHome",
+    "participantid": "8"
+  },
+  {
+    "availablebalance": "16629.599692024767",
+    "currentlocation": "POINT (-2034.686980076759 2030.381539383028)",
+    "currentmode": "AtHome",
+    "participantid": "9"
+  },
+  {
+    "availablebalance": "7972.269004625605",
+    "currentlocation": "POINT (1814.98579620458 5202.324736027698)",
+    "currentmode": "AtHome",
+    "participantid": "10"
+  },
+  {
+    "availablebalance": "8251.046371282524",
+    "currentlocation": "POINT (-4565.6827138156195 7005.636929989713)",
+    "currentmode": "AtHome",
+    "participantid": "11"
+  },
+  {
+    "availablebalance": "7514.248110293697",
+    "currentlocation": "POINT (-540.8607905645888 6212.0085270917525)",
+    "currentmode": "Transport",
+    "participantid": "12"
+  },
+  {
+    "availablebalance": "4705.08030936247",
+    "currentlocation": "POINT (581.8384408333688 3529.4152341625972)",
+    "currentmode": "AtHome",
+    "participantid": "13"
+  },
+  {
+    "availablebalance": "8124.326971120246",
+    "currentlocation": "POINT (1591.8298888318336 4013.7639158217444)",
+    "currentmode": "AtHome",
+    "participantid": "14"
+  },
+  {
+    "availablebalance": "7998.812124674195",
+    "currentlocation": "POINT (-1675.0510095550928 5609.338507213533)",
+    "currentmode": "AtHome",
+    "participantid": "15"
+  },
+  {
+    "availablebalance": "12881.38630421996",
+    "currentlocation": "POINT (1831.7873304297461 5320.646245105632)",
+    "currentmode": "AtHome",
+    "participantid": "16"
+  },
+  {
+    "availablebalance": "22730.265992337187",
+    "currentlocation": "POINT (-1701.950647608051 5620.022677890126)",
+    "currentmode": "AtHome",
+    "participantid": "17"
+  },
+  {
+    "availablebalance": "22927.39330301258",
+    "currentlocation": "POINT (-1076.5842362188507 2994.728261285693)",
+    "currentmode": "AtHome",
+    "participantid": "18"
+  },
+  {
+    "availablebalance": "10925.551703027444",
+    "currentlocation": "POINT (967.0062336801503 3981.340927609539)",
+    "currentmode": "AtRecreation",
+    "participantid": "19"
+  },
+  {
+    "availablebalance": "7043.505994518769",
+    "currentlocation": "POINT (-1422.8753026578263 2066.5737215664585)",
+    "currentmode": "AtHome",
+    "participantid": "20"
+  },
+  {
+    "availablebalance": "338.5684747264148",
+    "currentlocation": "POINT (1412.644760167943 3414.0178787864565)",
+    "currentmode": "AtHome",
+    "participantid": "21"
+  },
+  {
+    "availablebalance": "1841.4060463597868",
+    "currentlocation": "POINT (1821.5371438440009 4343.158215478451)",
+    "currentmode": "AtRecreation",
+    "participantid": "22"
+  },
+  {
+    "availablebalance": "5617.482647757216",
+    "currentlocation": "POINT (-1107.227708359132 3065.5453427229895)",
+    "currentmode": "AtHome",
+    "participantid": "23"
+  },
+  {
+    "availablebalance": "10527.673205359184",
+    "currentlocation": "POINT (-1527.1275555605914 2059.53529486834)",
+    "currentmode": "AtHome",
+    "participantid": "24"
+  },
+  {
+    "availablebalance": "7072.447646475183",
+    "currentlocation": "POINT (-1694.505856483093 2049.322365937635)",
+    "currentmode": "AtHome",
+    "participantid": "25"
+  },
+  {
+    "availablebalance": "5753.43566799725",
+    "currentlocation": "POINT (-1636.260455452556 2061.364222168615)",
+    "currentmode": "AtHome",
+    "participantid": "26"
+  },
+  {
+    "availablebalance": "7187.90673473607",
+    "currentlocation": "POINT (-1559.4010602968729 5661.229908784321)",
+    "currentmode": "AtHome",
+    "participantid": "27"
+  },
+  {
+    "availablebalance": "1276.8424000248076",
+    "currentlocation": "POINT (-2663.17882970922 5861.574711924999)",
+    "currentmode": "Transport",
+    "participantid": "994"
+  },
+  {
+    "availablebalance": "1640.6301144955075",
+    "currentlocation": "POINT (-4103.419028947852 7311.367585130046)",
+    "currentmode": "AtHome",
+    "participantid": "995"
+  },
+  {
+    "availablebalance": "1581.6785541774532",
+    "currentlocation": "POINT (-2244.8206277789714 5829.658485878773)",
+    "currentmode": "Transport",
+    "participantid": "996"
+  },
+  {
+    "availablebalance": "6167.301926374374",
+    "currentlocation": "POINT (-1696.5860489720055 3870.757755882812)",
+    "currentmode": "AtRecreation",
+    "participantid": "997"
+  },
+  {
+    "availablebalance": "3345.136555724762",
+    "currentlocation": "POINT (-4250.106202053015 5322.2509749126475)",
+    "currentmode": "AtHome",
+    "participantid": "998"
+  },
+  {
+    "availablebalance": "5245.143068173489",
+    "currentlocation": "POINT (2113.146319828208 5099.0139780453665)",
+    "currentmode": "AtHome",
+    "participantid": "999"
+  },
+  {
+    "availablebalance": "2291.212841932616",
+    "currentlocation": "POINT (140.48501119579873 812.4529043932611)",
+    "currentmode": "AtHome",
+    "participantid": "1000"
+  },
+  {
+    "availablebalance": "6716.382669942393",
+    "currentlocation": "POINT (920.6524260563766 2571.673518234092)",
+    "currentmode": "AtHome",
+    "participantid": "1001"
+  },
+  {
+    "availablebalance": "2444.6171159160203",
+    "currentlocation": "POINT (-2248.739022493608 2668.5747681383655)",
+    "currentmode": "AtHome",
+    "participantid": "1002"
+  },
+  {
+    "availablebalance": "1737.07610466999",
+    "currentlocation": "POINT (-3208.196163644346 6499.03892015471)",
+    "currentmode": "AtRecreation",
+    "participantid": "1003"
+  },
+  {
+    "availablebalance": "3115.632569099187",
+    "currentlocation": "POINT (-2471.693364419926 3276.022483871138)",
+    "currentmode": "AtHome",
+    "participantid": "1004"
+  },
+  {
+    "availablebalance": "3113.244686033563",
+    "currentlocation": "POINT (-4178.755445778288 5234.961352662549)",
+    "currentmode": "AtHome",
+    "participantid": "1005"
+  },
+  {
+    "availablebalance": "1634.610280286906",
+    "currentlocation": "POINT (-4227.972595816516 5315.296143771051)",
+    "currentmode": "AtHome",
+    "participantid": "1006"
+  },
+  {
+    "availablebalance": "1072.5482581066406",
+    "currentlocation": "POINT (-3964.6025264990335 6565.967796707195)",
+    "currentmode": "AtHome",
+    "participantid": "1007"
+  },
+  {
+    "availablebalance": "5714.421195779954",
+    "currentlocation": "POINT (-2153.571909256819 2521.0884089647766)",
+    "currentmode": "AtHome",
+    "participantid": "1008"
+  },
+  {
+    "availablebalance": "1320.551824307063",
+    "currentlocation": "POINT (-497.58693626849634 3554.657279893096)",
+    "currentmode": "AtRecreation",
+    "participantid": "1009"
+  },
+  {
+    "availablebalance": "2466.7880376613543",
+    "currentlocation": "POINT (-2100.356963979903 2596.3428032369716)",
+    "currentmode": "AtHome",
+    "participantid": "1010"
+  },
+  {
+    "availablebalance": "1940.686531848712",
+    "currentlocation": "POINT (-529.69546941179 1684.054642039977)",
+    "currentmode": "AtHome",
+    "participantid": "781"
+  },
+  {
+    "availablebalance": "3907.396425288371",
+    "currentlocation": "POINT (-173.58060961861977 5340.019317629605)",
+    "currentmode": "AtHome",
+    "participantid": "782"
+  },
+  {
+    "availablebalance": "1563.8859845452937",
+    "currentlocation": "POINT (-4326.018345568062 7592.440514065467)",
+    "currentmode": "AtHome",
+    "participantid": "783"
+  },
+  {
+    "availablebalance": "1589.1891990195002",
+    "currentlocation": "POINT (-3776.299250645544 7455.392427675707)",
+    "currentmode": "AtHome",
+    "participantid": "784"
+  },
+  {
+    "availablebalance": "2810.186953681988",
+    "currentlocation": "POINT (-581.000579659035 1650.2349838242703)",
+    "currentmode": "AtHome",
+    "participantid": "786"
+  },
+  {
+    "availablebalance": "2049.723056846946",
+    "currentlocation": "POINT (199.30074072700614 890.2474796102158)",
+    "currentmode": "AtHome",
+    "participantid": "787"
+  },
+  {
+    "availablebalance": "1047.0976876199557",
+    "currentlocation": "POINT (-3780.0808063569525 7461.317081750914)",
+    "currentmode": "AtHome",
+    "participantid": "788"
+  },
+  {
+    "availablebalance": "1288.7847057964282",
+    "currentlocation": "POINT (-248.0003176850429 5034.205623902746)",
+    "currentmode": "AtRecreation",
+    "participantid": "795"
+  },
+  {
+    "availablebalance": "1443.2171332759808",
+    "currentlocation": "POINT (-4465.5179970195 7053.175910801328)",
+    "currentmode": "AtHome",
+    "participantid": "796"
+  },
+  {
+    "availablebalance": "445.2280231497479",
+    "currentlocation": "POINT (-1213.5049990750194 3378.128369851267)",
+    "currentmode": "AtHome",
+    "participantid": "797"
+  },
+  {
+    "availablebalance": "3798.961134816581",
+    "currentlocation": "POINT (1037.8595923020175 4532.253393288328)",
+    "currentmode": "Transport",
+    "participantid": "798"
+  },
+  {
+    "availablebalance": "7125.578341443842",
+    "currentlocation": "POINT (1403.4703470621855 3484.602905910564)",
+    "currentmode": "AtHome",
+    "participantid": "800"
+  },
+  {
+    "availablebalance": "6539.911971042377",
+    "currentlocation": "POINT (-232.05415596959818 3871.271024648331)",
+    "currentmode": "AtRecreation",
+    "participantid": "801"
+  },
+  {
+    "availablebalance": "1532.7132169996817",
+    "currentlocation": "POINT (-1665.255552414537 3428.850499167445)",
+    "currentmode": "AtHome",
+    "participantid": "803"
+  },
+  {
+    "availablebalance": "981.989314401035",
+    "currentlocation": "POINT (-2812.9025747884816 5863.889660932957)",
+    "currentmode": "Transport",
+    "participantid": "804"
+  },
+  {
+    "availablebalance": "1527.0665598042772",
+    "currentlocation": "POINT (-1633.597605779784 3422.9740213323944)",
+    "currentmode": "AtHome",
+    "participantid": "805"
+  },
+  {
+    "availablebalance": "2164.3791717092167",
+    "currentlocation": "POINT (418.47646668134996 2395.880043768734)",
+    "currentmode": "AtHome",
+    "participantid": "807"
+  },
+  {
+    "availablebalance": "1690.8902743010694",
+    "currentlocation": "POINT (-4505.273766616215 7502.373779832186)",
+    "currentmode": "AtHome",
+    "participantid": "809"
+  },
+  {
+    "availablebalance": "2557.5377049214494",
+    "currentlocation": "POINT (-1016.1007702949528 1448.9309138248868)",
+    "currentmode": "AtHome",
+    "participantid": "810"
+  },
+  {
+    "availablebalance": "6587.00393824677",
+    "currentlocation": "POINT (-2253.5188863550516 2513.0897016854406)",
+    "currentmode": "AtHome",
+    "participantid": "811"
+  },
+  {
+    "availablebalance": "1303.0190684510646",
+    "currentlocation": "POINT (-4514.58528855778 7557.956102926287)",
+    "currentmode": "AtHome",
+    "participantid": "812"
+  },
+  {
+    "availablebalance": "1063.765932984822",
+    "currentlocation": "POINT (-1612.5171154007355 3873.7002349114437)",
+    "currentmode": "AtRecreation",
+    "participantid": "813"
+  },
+  {
+    "availablebalance": "4033.056793913948",
+    "currentlocation": "POINT (-4405.876968350579 7518.324883972582)",
+    "currentmode": "AtHome",
+    "participantid": "814"
+  },
+  {
+    "availablebalance": "689.5865776569474",
+    "currentlocation": "POINT (-1610.9627691619994 2820.240368942965)",
+    "currentmode": "AtHome",
+    "participantid": "815"
+  },
+  {
+    "availablebalance": "5780.339225579166",
+    "currentlocation": "POINT (-1336.5882074093379 3904.4779350882313)",
+    "currentmode": "AtHome",
+    "participantid": "819"
+  },
+  {
+    "availablebalance": "5626.0648984583495",
+    "currentlocation": "POINT (-1004.2513891859523 3073.5372746080293)",
+    "currentmode": "AtHome",
+    "participantid": "820"
+  },
+  {
+    "availablebalance": "2582.0130387042245",
+    "currentlocation": "POINT (1797.2337132741973 5137.778234811666)",
+    "currentmode": "AtHome",
+    "participantid": "821"
+  },
+  {
+    "availablebalance": "1799.8158491678917",
+    "currentlocation": "POINT (605.0606339361797 424.15209856388833)",
+    "currentmode": "AtHome",
+    "participantid": "822"
+  },
+  {
+    "availablebalance": "6789.067193978754",
+    "currentlocation": "POINT (1760.9677030231485 5175.715272920123)",
+    "currentmode": "AtHome",
+    "participantid": "823"
+  },
+  {
+    "availablebalance": "6507.071248541214",
+    "currentlocation": "POINT (-4575.355962850468 7098.803639486686)",
+    "currentmode": "AtHome",
+    "participantid": "826"
+  },
+  {
+    "availablebalance": "2041.8993139460729",
+    "currentlocation": "POINT (1763.5225460548575 5317.804064506469)",
+    "currentmode": "AtHome",
+    "participantid": "829"
+  },
+  {
+    "availablebalance": "4854.690009814921",
+    "currentlocation": "POINT (1240.120830290805 3213.184734365052)",
+    "currentmode": "AtHome",
+    "participantid": "830"
+  },
+  {
+    "availablebalance": "1802.9964501831512",
+    "currentlocation": "POINT (-536.0450117245267 4686.940131277996)",
+    "currentmode": "AtHome",
+    "participantid": "833"
+  },
+  {
+    "availablebalance": "3216.4332077261547",
+    "currentlocation": "POINT (-3951.303099272169 5660.641175195469)",
+    "currentmode": "AtHome",
+    "participantid": "835"
+  },
+  {
+    "availablebalance": "1434.631650407007",
+    "currentlocation": "POINT (-1457.3885093196725 2674.8153128865742)",
+    "currentmode": "AtHome",
+    "participantid": "836"
+  },
+  {
+    "availablebalance": "2179.29425079821",
+    "currentlocation": "POINT (-1324.4455789026817 2194.1490996132184)",
+    "currentmode": "AtHome",
+    "participantid": "837"
+  },
+  {
+    "availablebalance": "4769.539988943616",
+    "currentlocation": "POINT (665.6143289852563 3291.6693208642923)",
+    "currentmode": "AtHome",
+    "participantid": "838"
+  },
+  {
+    "availablebalance": "3557.0627760816",
+    "currentlocation": "POINT (-4126.807776671819 7223.712058573714)",
+    "currentmode": "AtRestaurant",
+    "participantid": "840"
+  },
+  {
+    "availablebalance": "5517.63729800374",
+    "currentlocation": "POINT (-3204.8464903056683 7842.437308158231)",
+    "currentmode": "AtHome",
+    "participantid": "841"
+  },
+  {
+    "availablebalance": "3027.193636781268",
+    "currentlocation": "POINT (-3609.2158542156903 5683.6461987039065)",
+    "currentmode": "AtHome",
+    "participantid": "843"
+  },
+  {
+    "availablebalance": "4057.729002027285",
+    "currentlocation": "POINT (-4569.767285060447 7091.210246676771)",
+    "currentmode": "AtHome",
+    "participantid": "844"
+  },
+  {
+    "availablebalance": "2446.4588434950497",
+    "currentlocation": "POINT (-2021.2612503255148 1947.9658402270704)",
+    "currentmode": "AtHome",
+    "participantid": "845"
+  },
+  {
+    "availablebalance": "5383.968932139334",
+    "currentlocation": "POINT (-4135.811558220808 6904.144972265494)",
+    "currentmode": "AtHome",
+    "participantid": "848"
+  },
+  {
+    "availablebalance": "3499.970755019171",
+    "currentlocation": "POINT (-681.0992702433416 6016.427506407164)",
+    "currentmode": "AtHome",
+    "participantid": "849"
+  },
+  {
+    "availablebalance": "3464.4429151669697",
+    "currentlocation": "POINT (-4140.2234961215445 6885.94831581265)",
+    "currentmode": "AtHome",
+    "participantid": "850"
+  },
+  {
+    "availablebalance": "3707.3437083951935",
+    "currentlocation": "POINT (-4050.4480968794396 5505.368957083411)",
+    "currentmode": "AtHome",
+    "participantid": "851"
+  }
+]
